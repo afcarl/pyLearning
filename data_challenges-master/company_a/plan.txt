@@ -1,0 +1,5 @@
+Descriptive statistics -> distribution analysis -> linear regression -> multivariate linear regression -> fixed effects model -> logistic regression -> knn -> kmeans -> confusion matrix -> metrics -> decision trees -> support vector machine -> thin perceptron -> weird models -> neural network architectures -> ensemble methods
+
+feature engineering -> linear regression -> multivariate linear regression -> fixed effects model -> logistic regression -> knn -> kmeans -> confusion matrix -> metrics -> decision trees -> support vector machine -> thin perceptron -> weird models -> neural network architectures -> ensemble methods
+
+Data visualization throughout.  Use plotly, then you don't need a flask app.

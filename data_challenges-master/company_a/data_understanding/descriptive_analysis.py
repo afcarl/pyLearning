@@ -1,0 +1,106 @@
+import pandas as pd
+import numpy as np
+from scipy import stats
+import matplotlib.pyplot as plt
+import itertools
+
+
+def describe_numerical_column(column_data):
+    print("Mean", column_data.mean())
+    print("Median", column_data.median())
+    print("Std Dev", column_data.std())
+    print("Skew", column_data.skew())
+    print("Kurtosis", column_data.kurtosis())
+    print("Normal Test Results", stats.normaltest(column_data))
+
+
+def frequency_plot(array_data, column_name):
+    fit = stats.norm.pdf(array_data, np.mean(array_data), np.std(array_data)) 
+    fig = plt.figure()
+    plt.plot(array_data, fit, '-', linewidth = 2)
+    fig.suptitle("Frequency Plot")
+    plt.xlabel(column_name, fontsize=18)
+    plt.ylabel("Frequency", fontsize=16)
+    plt.hist(array_data, histtype='stepfilled')      
+    plt.show()
+
+
+def probability_plot(array_data, column_name):
+    fit = stats.norm.pdf(array_data, np.mean(array_data), np.std(array_data)) 
+    fig = plt.figure()
+    plt.plot(array_data, fit, '-', linewidth = 2)
+    fig.suptitle("Probability Plot")
+    plt.xlabel(column_name, fontsize=18)
+    plt.ylabel("Probability In Given Range", fontsize=16)
+    plt.hist(array_data, normed=True, histtype='stepfilled')      
+    plt.show()
+
+
+def visually_describe_numerical_column(column_data, column_name):
+    array_data = np.asarray(column_data.dropna())
+    array_data = sorted(array_data)
+    frequency_plot(array_data, column_name)
+    probability_plot(array_data, column_name)
+
+
+def describe_data(df):
+    del df["CustomerID"]
+    for column in df.columns:
+        if df[column].dtype == np.float64 or df[column].dtype == np.int64:
+            print(column)
+            describe_numerical_column(df[column])
+            visually_describe_numerical_column(df[column], column)
+        else:
+            print(column)
+            print(df[column].value_counts())
+
+
+def to_numeric(df):
+    del df["CustomerID"]
+    df["YearsAtCurrentEmployer"] = df["YearsAtCurrentEmployer"].replace("10+", "10")
+    df["YearsAtCurrentEmployer"] = df["YearsAtCurrentEmployer"].astype(float)
+    for column in df.columns:
+        if not (df[column].dtype == np.float64 or df[column].dtype == np.int64):
+            tmp_df = pd.get_dummies(df[column], prefix=column)
+            df = pd.concat([df, tmp_df], axis=1)
+            del df[column]
+    return df
+
+
+def corr_with_pval(df):
+    correlations = {}
+    columns = df.columns.tolist()
+    for col_a, col_b in itertools.combinations(columns, 2):
+        correlations[col_a + '___' + col_b] = stats.spearmanr(df.loc[:, col_a], df.loc[:, col_b])
+    results = pd.DataFrame.from_dict(correlations, orient="index")
+    results.columns = ["correlation", "pvalues"]
+    results.sort_index(inplace=True)
+    return results
+
+
+def print_full(x):
+    pd.set_option('display.max_rows', len(x))
+    print(x)
+    pd.reset_option('display.max_rows')
+
+
+def corr_with_loan_approved(df):
+    correlations = {}
+    columns = df.columns.tolist()
+    for col in columns:
+        correlations["loan_approve" + '___' + col] = stats.spearmanr(df.loc[:, "WasTheLoanApproved_Y"], df.loc[:, col])
+    results = pd.DataFrame.from_dict(correlations, orient="index")
+    results.columns = ["correlation", "pvalues"]
+    results.sort_index(inplace=True)
+    return results
+
+
+if __name__ == '__main__':
+    df = pd.read_csv('ds-all-data.csv')
+    # describe_data(df)
+    df = to_numeric(df)
+    # corr_df = corr_with_pval(df)
+    corr_df = corr_with_loan_approved(df)
+    stat_sig_corr_df = corr_df[corr_df["pvalues"] < 0.06]
+    print_full(stat_sig_corr_df)
+    print_full(corr_df)

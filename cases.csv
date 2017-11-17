@@ -1,0 +1,2531 @@
+CASE_ID,COUNT_DATE_MIN,AGE_YEARS,GENDER_BIRTH,BOROUGH,US_BORN,RACE,ETHNICITY
+1,8/21/2016,13,Male,Queens County (Queens),No,"White, Other",Not Hispanic
+2,9/26/2016,57,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+3,9/21/2016,53,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+4,2/16/2016,34,NA,Kings County (Brooklyn),NA,White,Not Hispanic
+5,1/6/2016,27,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+6,12/23/2016,41,Female,Bronx County (Bronx),No,White,Hispanic
+7,9/20/2016,31,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+8,3/30/2016,11,Male,Queens County (Queens),No,Asian,Not Hispanic
+9,4/2/2016,68,Male,New York County (Manhattan),NA,Unknown,Unknown
+10,4/10/2016,19,Female,Queens County (Queens),No,White,Hispanic
+11,6/7/2016,22,Male,Queens County (Queens),No,Other,Hispanic
+12,12/28/2016,61,Female,Queens County (Queens),NA,NA,Unknown
+13,7/20/2016,53,Female,Queens County (Queens),No,White,Not Hispanic
+14,12/30/2016,6,Female,New York County (Manhattan),No,White,Hispanic
+15,4/5/2016,55,Female,Bronx County (Bronx),No,White,Hispanic
+16,8/27/2016,9,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+17,10/13/2016,44,Male,Queens County (Queens),No,Asian,Not Hispanic
+18,12/7/2016,11,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+19,1/11/2016,53,Male,New York County (Manhattan),No,White,Hispanic
+20,3/25/2016,15,Female,Queens County (Queens),No,Asian,Not Hispanic
+21,10/19/2016,23,Female,Queens County (Queens),No,White,Hispanic
+22,11/28/2016,49,Female,Queens County (Queens),No,Other,Hispanic
+23,10/3/2016,38,Male,Queens County (Queens),NA,White,Not Hispanic
+24,9/5/2016,51,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+25,4/29/2016,41,Male,New York County (Manhattan),NA,White,Hispanic
+26,6/17/2016,14,Female,Queens County (Queens),No,Asian,Not Hispanic
+27,10/21/2016,59,Female,New York County (Manhattan),NA,White,Hispanic
+28,8/28/2016,50,Male,Richmond County (Staten Island),NA,White,Not Hispanic
+29,9/20/2016,65,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+30,9/1/2016,26,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+31,10/7/2016,68,Male,Queens County (Queens),No,"Black or African American, Other",Hispanic
+32,11/23/2016,10,Female,Queens County (Queens),No,Asian,Not Hispanic
+33,10/9/2016,44,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+34,12/31/2016,51,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+35,5/17/2016,48,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+36,2/4/2016,70,Male,New York County (Manhattan),No,Asian,Not Hispanic
+37,8/8/2016,27,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+38,12/6/2016,52,Male,Queens County (Queens),No,White,Hispanic
+39,3/13/2016,6,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+40,6/10/2016,31,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+41,3/2/2016,51,Female,New York County (Manhattan),No,Asian,Not Hispanic
+42,8/25/2016,64,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+43,7/17/2016,45,Female,Kings County (Brooklyn),Yes,Other,Hispanic
+44,2/18/2016,32,Male,New York County (Manhattan),No,Asian,Not Hispanic
+45,10/29/2016,70,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+46,3/19/2016,22,Female,Richmond County (Staten Island),No,Black or African American,Hispanic
+47,4/12/2016,16,Female,Queens County (Queens),No,Asian,Not Hispanic
+48,6/14/2016,41,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+49,3/12/2016,21,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+50,12/11/2016,45,Female,Kings County (Brooklyn),No,White,Not Hispanic
+51,1/9/2016,69,Male,Queens County (Queens),NA,White,Hispanic
+52,9/28/2016,69,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+53,3/31/2016,61,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+54,9/6/2016,30,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+55,6/1/2016,16,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+56,7/15/2016,37,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+57,2/26/2016,56,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+58,4/4/2016,15,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+59,1/29/2016,51,Female,New York County (Manhattan),No,Asian,Not Hispanic
+60,7/27/2016,18,Female,Kings County (Brooklyn),NA,White,Hispanic
+61,2/10/2016,53,Male,New York County (Manhattan),No,White,Hispanic
+62,12/2/2016,39,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+63,11/24/2016,8,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+64,9/29/2016,28,Female,Kings County (Brooklyn),No,Black or African American,Hispanic
+65,7/23/2016,36,Female,New York County (Manhattan),Yes,White,Hispanic
+66,6/22/2016,58,Male,Queens County (Queens),No,White,Hispanic
+67,7/2/2016,46,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+68,7/14/2016,59,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+69,5/30/2016,68,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+70,10/21/2016,21,Female,Queens County (Queens),NA,Asian,Not Hispanic
+71,11/11/2016,36,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+72,7/29/2016,25,Female,New York County (Manhattan),No,Asian,Not Hispanic
+73,4/8/2016,48,Male,New York County (Manhattan),No,Asian,Not Hispanic
+74,10/14/2016,63,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+75,3/20/2016,55,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+76,3/25/2016,61,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+77,12/30/2016,34,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+78,4/7/2016,63,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+79,7/6/2016,64,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+80,12/21/2016,44,Female,Queens County (Queens),No,Asian,Not Hispanic
+81,12/19/2016,46,Male,Bronx County (Bronx),No,White,Not Hispanic
+82,1/9/2016,31,Male,New York County (Manhattan),No,Black or African American,Hispanic
+83,3/31/2016,54,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+84,12/2/2016,29,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+85,8/28/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+86,7/17/2016,30,Male,Kings County (Brooklyn),No,Other,Hispanic
+87,9/29/2016,18,Male,Kings County (Brooklyn),No,White,Hispanic
+88,12/3/2016,8,Male,Queens County (Queens),No,Other,Hispanic
+89,6/11/2016,65,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+90,11/2/2016,14,Male,Kings County (Brooklyn),NA,Black or African American,Hispanic
+91,8/21/2016,62,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+92,2/21/2016,5,Female,Queens County (Queens),No,Asian,Not Hispanic
+93,5/30/2016,43,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+94,7/19/2016,21,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+95,3/1/2016,17,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+96,12/6/2016,50,Male,Queens County (Queens),No,Asian,Not Hispanic
+97,1/18/2016,70,Male,Bronx County (Bronx),No,White,Hispanic
+98,4/29/2016,33,Female,Kings County (Brooklyn),NA,Asian,Not Hispanic
+99,1/7/2016,34,Female,Queens County (Queens),No,Asian,Not Hispanic
+100,10/2/2016,62,Male,Queens County (Queens),No,Asian,Not Hispanic
+101,10/24/2016,54,Female,Queens County (Queens),No,Asian,Not Hispanic
+102,9/5/2016,65,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+103,9/21/2016,19,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+104,6/11/2016,58,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+105,6/3/2016,11,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+106,9/14/2016,40,Female,Kings County (Brooklyn),No,White,Hispanic
+107,4/27/2016,20,Female,Queens County (Queens),No,Asian,Not Hispanic
+108,2/18/2016,21,Male,Kings County (Brooklyn),No,White,Not Hispanic
+109,10/25/2016,9,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+110,2/29/2016,24,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+111,10/8/2016,12,Male,Bronx County (Bronx),No,White,Hispanic
+112,4/26/2016,5,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+113,8/21/2016,65,Male,Richmond County (Staten Island),No,White,Not Hispanic
+114,7/14/2016,7,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+115,11/29/2016,13,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+116,7/16/2016,54,Female,Queens County (Queens),No,Asian,Not Hispanic
+117,5/11/2016,17,Female,Queens County (Queens),No,Asian,Not Hispanic
+118,7/30/2016,59,Male,Queens County (Queens),NA,White,Not Hispanic
+119,11/24/2016,57,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+120,11/16/2016,45,Male,New York County (Manhattan),No,Asian,Not Hispanic
+121,8/26/2016,7,Male,Queens County (Queens),NA,White,Not Hispanic
+122,12/7/2016,64,Male,Kings County (Brooklyn),No,White,Not Hispanic
+123,12/9/2016,34,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+124,10/18/2016,67,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+125,1/15/2016,49,Male,Queens County (Queens),NA,White,Hispanic
+126,5/12/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+127,4/24/2016,31,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+128,5/2/2016,34,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+129,12/26/2016,56,Male,New York County (Manhattan),No,Asian,Not Hispanic
+130,10/1/2016,38,Male,Kings County (Brooklyn),NA,White,Hispanic
+131,12/30/2016,11,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+132,6/26/2016,56,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+133,10/12/2016,55,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+134,11/7/2016,10,Male,New York County (Manhattan),No,Asian,Not Hispanic
+135,10/24/2016,18,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+136,6/30/2016,32,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+137,3/4/2016,5,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+138,6/23/2016,14,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+139,5/17/2016,23,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+140,7/16/2016,30,Female,Queens County (Queens),No,Asian,Not Hispanic
+141,1/18/2016,65,Male,New York County (Manhattan),No,Asian,Not Hispanic
+142,4/12/2016,60,Female,Queens County (Queens),No,Other,Hispanic
+143,2/13/2016,11,Male,New York County (Manhattan),No,Asian,Not Hispanic
+144,8/18/2016,13,Female,New York County (Manhattan),No,Asian,Not Hispanic
+145,12/20/2016,58,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+146,1/7/2016,40,Male,New York County (Manhattan),No,Asian,Not Hispanic
+147,9/22/2016,70,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+148,10/1/2016,61,Male,Queens County (Queens),No,Asian,Not Hispanic
+149,3/6/2016,6,Male,Queens County (Queens),No,Asian,Not Hispanic
+150,9/2/2016,44,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+151,6/8/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+152,12/5/2016,60,Female,Richmond County (Staten Island),NA,White,Hispanic
+153,3/30/2016,53,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+154,7/10/2016,11,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+155,5/25/2016,66,Male,Queens County (Queens),No,Asian,Not Hispanic
+156,4/5/2016,50,Female,Queens County (Queens),No,White,Hispanic
+157,10/4/2016,21,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+158,6/7/2016,61,Male,Queens County (Queens),No,Asian,Not Hispanic
+159,10/17/2016,42,Female,New York County (Manhattan),No,Other,Hispanic
+160,8/14/2016,19,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+161,7/19/2016,10,Female,Queens County (Queens),No,Other,Hispanic
+162,8/23/2016,27,Female,New York County (Manhattan),No,Asian,Not Hispanic
+163,11/5/2016,21,Male,Queens County (Queens),No,Asian,Not Hispanic
+164,11/18/2016,63,Female,New York County (Manhattan),No,Asian,Not Hispanic
+165,4/2/2016,34,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+166,5/5/2016,55,Male,Queens County (Queens),No,White,Hispanic
+167,5/20/2016,47,Male,Queens County (Queens),No,Asian,Hispanic
+168,3/5/2016,11,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+169,5/3/2016,48,Male,Queens County (Queens),No,Asian,Not Hispanic
+170,11/29/2016,37,Male,Richmond County (Staten Island),No,White,Hispanic
+171,4/22/2016,21,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+172,10/17/2016,51,Male,Queens County (Queens),No,Asian,Not Hispanic
+173,4/6/2016,26,Male,Richmond County (Staten Island),No,White,Hispanic
+174,4/10/2016,14,Male,Queens County (Queens),No,Asian,Not Hispanic
+175,4/4/2016,70,Female,Kings County (Brooklyn),No,White,Not Hispanic
+176,11/25/2016,33,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+177,2/23/2016,66,Male,Queens County (Queens),No,Asian,Not Hispanic
+178,3/16/2016,23,Male,Kings County (Brooklyn),No,White,Hispanic
+179,3/22/2016,35,Male,New York County (Manhattan),No,White,Hispanic
+180,7/31/2016,69,Male,Kings County (Brooklyn),No,White,Hispanic
+181,8/15/2016,6,Female,Queens County (Queens),No,Asian,Not Hispanic
+182,4/28/2016,42,Male,Kings County (Brooklyn),No,White,Hispanic
+183,11/24/2016,22,Male,Kings County (Brooklyn),No,Asian,Hispanic
+184,10/17/2016,8,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+185,10/22/2016,61,Male,New York County (Manhattan),No,Asian,Not Hispanic
+186,10/12/2016,27,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+187,10/7/2016,70,Male,Queens County (Queens),No,Asian,Not Hispanic
+188,2/8/2016,42,Male,New York County (Manhattan),NA,White,Not Hispanic
+189,11/15/2016,6,Male,Queens County (Queens),No,Asian,Not Hispanic
+190,1/24/2016,6,Female,Queens County (Queens),No,Asian,Not Hispanic
+191,6/24/2016,66,Female,Kings County (Brooklyn),No,White,Hispanic
+192,12/24/2016,51,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+193,12/17/2016,69,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+194,7/19/2016,53,Male,Queens County (Queens),No,Asian,Not Hispanic
+195,10/28/2016,70,Female,Queens County (Queens),No,Asian,Not Hispanic
+196,7/15/2016,64,Male,Bronx County (Bronx),No,White,Hispanic
+197,4/21/2016,45,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+198,12/23/2016,49,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+199,11/21/2016,53,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+200,6/4/2016,16,Female,Queens County (Queens),NA,White,Hispanic
+201,1/17/2016,14,Female,New York County (Manhattan),No,Asian,Not Hispanic
+202,4/23/2016,63,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+203,7/19/2016,25,Female,Richmond County (Staten Island),No,Black or African American,Not Hispanic
+204,6/24/2016,35,Male,Queens County (Queens),No,Asian,Not Hispanic
+205,7/29/2016,30,Male,Queens County (Queens),No,Asian,Not Hispanic
+206,3/22/2016,35,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+207,9/20/2016,70,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+208,3/23/2016,33,Female,Queens County (Queens),No,Asian,Not Hispanic
+209,7/26/2016,67,Male,New York County (Manhattan),No,Asian,Not Hispanic
+210,9/8/2016,33,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+211,9/18/2016,56,Male,Bronx County (Bronx),No,"Asian, White",Not Hispanic
+212,1/17/2016,22,Male,Queens County (Queens),No,Asian,Not Hispanic
+213,1/31/2016,23,Female,Queens County (Queens),No,Asian,Not Hispanic
+214,3/2/2016,18,Male,New York County (Manhattan),No,Asian,Not Hispanic
+215,2/4/2016,9,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+216,10/30/2016,62,Male,Queens County (Queens),No,Asian,Not Hispanic
+217,5/29/2016,32,Female,Queens County (Queens),No,Asian,Not Hispanic
+218,1/28/2016,52,Male,New York County (Manhattan),No,White,Not Hispanic
+219,8/16/2016,26,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+220,4/12/2016,48,Female,Queens County (Queens),No,Asian,Not Hispanic
+221,5/2/2016,39,Male,Queens County (Queens),No,Asian,Not Hispanic
+222,3/7/2016,23,Male,Queens County (Queens),No,White,Hispanic
+223,11/29/2016,47,Male,Queens County (Queens),No,White,Hispanic
+224,3/4/2016,47,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+225,9/6/2016,62,Female,Queens County (Queens),No,Other,Hispanic
+226,12/2/2016,8,Female,Queens County (Queens),No,White,Not Hispanic
+227,7/5/2016,28,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+228,3/26/2016,67,Female,Queens County (Queens),No,Asian,Not Hispanic
+229,7/1/2016,26,Male,New York County (Manhattan),NA,White,Not Hispanic
+230,2/22/2016,44,Female,Queens County (Queens),No,White,Hispanic
+231,12/6/2016,56,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+232,2/26/2016,37,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+233,11/27/2016,59,Female,Queens County (Queens),No,White,Hispanic
+234,11/15/2016,31,Female,Richmond County (Staten Island),No,White,Hispanic
+235,9/4/2016,31,Male,Queens County (Queens),No,Black or African American,Hispanic
+236,6/10/2016,22,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+237,6/8/2016,22,Female,Bronx County (Bronx),No,White,Hispanic
+238,4/21/2016,20,Female,Bronx County (Bronx),NA,White,Hispanic
+239,1/27/2016,65,Male,Kings County (Brooklyn),No,White,Hispanic
+240,11/12/2016,54,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+241,6/17/2016,68,Male,New York County (Manhattan),No,White,Hispanic
+242,3/4/2016,63,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+243,11/9/2016,29,Female,Queens County (Queens),No,White,Hispanic
+244,4/13/2016,21,Female,Queens County (Queens),No,Asian,Not Hispanic
+245,5/6/2016,12,Female,Queens County (Queens),No,White,Hispanic
+246,8/5/2016,44,Male,Queens County (Queens),No,Asian,Not Hispanic
+247,5/27/2016,57,Male,Queens County (Queens),No,Asian,Not Hispanic
+248,4/25/2016,44,Male,New York County (Manhattan),No,White,Hispanic
+249,1/28/2016,70,Male,New York County (Manhattan),No,Asian,Not Hispanic
+250,12/9/2016,69,Male,New York County (Manhattan),No,Native Hawaiian or Pacific Islander,Not Hispanic
+251,1/20/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+252,5/15/2016,10,Male,Kings County (Brooklyn),No,White,Hispanic
+253,4/12/2016,19,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+254,10/4/2016,68,Male,New York County (Manhattan),No,"White, Unknown",Hispanic
+255,11/26/2016,15,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+256,8/15/2016,16,Male,Bronx County (Bronx),No,White,Hispanic
+257,8/30/2016,17,Male,Kings County (Brooklyn),No,White,Hispanic
+258,8/27/2016,15,Male,Queens County (Queens),No,Asian,Not Hispanic
+259,9/11/2016,12,Male,Queens County (Queens),No,Asian,Not Hispanic
+260,7/15/2016,33,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+261,4/25/2016,68,Female,Queens County (Queens),No,White,Not Hispanic
+262,2/15/2016,64,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+263,9/4/2016,24,Male,Queens County (Queens),No,Asian,Not Hispanic
+264,4/5/2016,24,Female,New York County (Manhattan),No,White,Hispanic
+265,1/4/2016,43,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+266,4/11/2016,69,Female,New York County (Manhattan),No,White,Hispanic
+267,11/15/2016,66,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+268,9/17/2016,12,Male,New York County (Manhattan),No,White,Not Hispanic
+269,10/26/2016,31,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+270,12/26/2016,68,Male,Queens County (Queens),No,White,Hispanic
+271,3/16/2016,10,Female,Queens County (Queens),No,White,Hispanic
+272,3/25/2016,12,Male,Queens County (Queens),No,Asian,Not Hispanic
+273,9/7/2016,28,Female,Queens County (Queens),No,Asian,Not Hispanic
+274,2/6/2016,5,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+275,6/6/2016,33,Male,Queens County (Queens),No,White,Hispanic
+276,2/19/2016,57,Female,Bronx County (Bronx),NA,White,Hispanic
+277,9/11/2016,25,Female,Bronx County (Bronx),NA,White,Hispanic
+278,5/25/2016,30,Male,Queens County (Queens),No,Asian,Not Hispanic
+279,4/11/2016,17,Male,New York County (Manhattan),No,Asian,Not Hispanic
+280,9/26/2016,28,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+281,9/4/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+282,10/24/2016,65,Female,Queens County (Queens),No,Asian,Not Hispanic
+283,11/4/2016,26,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+284,6/13/2016,18,Female,Queens County (Queens),No,Asian,Not Hispanic
+285,11/28/2016,40,Female,Queens County (Queens),No,Asian,Not Hispanic
+286,10/14/2016,30,Male,New York County (Manhattan),No,Asian,Not Hispanic
+287,9/1/2016,69,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+288,8/23/2016,24,Male,Queens County (Queens),No,Asian,Not Hispanic
+289,3/14/2016,14,Male,Queens County (Queens),No,Other,Hispanic
+290,5/11/2016,70,Female,Richmond County (Staten Island),No,Black or African American,Not Hispanic
+291,12/13/2016,5,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+292,2/22/2016,45,Male,Queens County (Queens),No,Asian,Not Hispanic
+293,11/21/2016,18,Female,Queens County (Queens),No,White,Not Hispanic
+294,1/12/2016,68,Female,Queens County (Queens),No,Asian,Not Hispanic
+295,1/9/2016,11,Male,Queens County (Queens),No,White,Hispanic
+296,4/5/2016,10,Female,Queens County (Queens),No,Asian,Not Hispanic
+297,8/5/2016,19,Male,Kings County (Brooklyn),No,White,Not Hispanic
+298,11/30/2016,5,Female,Queens County (Queens),No,Asian,Not Hispanic
+299,2/29/2016,12,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+300,6/17/2016,13,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+301,4/2/2016,59,Male,Queens County (Queens),No,Asian,Not Hispanic
+302,5/24/2016,21,Male,Bronx County (Bronx),No,Other,Hispanic
+303,6/14/2016,6,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+304,10/14/2016,65,Male,New York County (Manhattan),NA,Asian,Not Hispanic
+305,7/17/2016,54,Male,Queens County (Queens),No,White,Hispanic
+306,8/27/2016,35,Female,Bronx County (Bronx),No,White,Hispanic
+307,5/1/2016,17,Female,Queens County (Queens),No,Asian,Not Hispanic
+308,5/7/2016,43,Female,Queens County (Queens),Yes,White,Not Hispanic
+309,9/24/2016,56,Male,Bronx County (Bronx),No,White,Hispanic
+310,6/25/2016,32,Male,Queens County (Queens),No,White,Hispanic
+311,6/9/2016,67,Male,Queens County (Queens),No,Other,Hispanic
+312,2/15/2016,50,Male,Queens County (Queens),No,Asian,Not Hispanic
+313,9/19/2016,45,Female,Queens County (Queens),No,Asian,Not Hispanic
+314,8/9/2016,10,Male,New York County (Manhattan),NA,White,Not Hispanic
+315,7/10/2016,13,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+316,10/22/2016,30,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+317,3/21/2016,10,NA,NA,NA,NA,NA
+318,3/29/2016,13,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+319,7/12/2016,56,Male,New York County (Manhattan),No,Asian,Not Hispanic
+320,7/31/2016,68,Male,Queens County (Queens),No,Asian,Not Hispanic
+321,3/2/2016,51,Male,Queens County (Queens),No,Asian,Not Hispanic
+322,9/25/2016,52,Female,Kings County (Brooklyn),No,White,Hispanic
+323,12/10/2016,66,Female,New York County (Manhattan),NA,White,Not Hispanic
+324,6/20/2016,33,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+325,12/29/2016,54,Male,Queens County (Queens),No,White,Hispanic
+326,6/12/2016,62,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+327,7/19/2016,20,Female,New York County (Manhattan),No,White,Not Hispanic
+328,1/23/2016,67,Male,Queens County (Queens),No,Asian,Not Hispanic
+329,6/22/2016,59,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+330,6/23/2016,18,Male,Bronx County (Bronx),NA,White,Hispanic
+331,5/30/2016,26,Female,Queens County (Queens),No,"Asian, Unknown",Not Hispanic
+332,4/25/2016,27,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+333,8/9/2016,8,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+334,3/24/2016,7,Male,Bronx County (Bronx),No,White,Hispanic
+335,1/9/2016,52,Male,Queens County (Queens),No,Asian,Not Hispanic
+336,4/29/2016,34,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+337,9/15/2016,65,Male,Kings County (Brooklyn),No,White,Not Hispanic
+338,8/6/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+339,6/7/2016,28,Male,Queens County (Queens),No,"Asian, Black or African American",Not Hispanic
+340,6/8/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+341,9/9/2016,56,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+342,3/30/2016,7,Female,Queens County (Queens),NA,Asian,Not Hispanic
+343,6/1/2016,44,Male,New York County (Manhattan),No,White,Not Hispanic
+344,2/20/2016,24,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+345,10/29/2016,58,Female,Queens County (Queens),No,Asian,Not Hispanic
+346,9/3/2016,67,Female,Richmond County (Staten Island),No,Black or African American,Not Hispanic
+347,6/26/2016,57,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+348,5/14/2016,70,Male,Queens County (Queens),No,Asian,Not Hispanic
+349,6/5/2016,52,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+350,12/12/2016,15,Male,Bronx County (Bronx),No,White,Hispanic
+351,3/2/2016,60,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+352,1/4/2016,47,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+353,1/29/2016,7,Male,Queens County (Queens),No,Asian,Not Hispanic
+354,6/3/2016,17,Female,Queens County (Queens),No,Asian,Not Hispanic
+355,6/6/2016,18,Male,Queens County (Queens),No,Asian,Not Hispanic
+356,2/1/2016,54,Male,Queens County (Queens),No,Asian,Not Hispanic
+357,12/30/2016,42,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+358,1/23/2016,51,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+359,7/7/2016,48,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+360,12/17/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+361,7/10/2016,7,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+362,11/16/2016,23,Male,Queens County (Queens),No,Asian,Not Hispanic
+363,8/30/2016,35,Male,Queens County (Queens),No,White,Hispanic
+364,8/26/2016,21,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+365,11/10/2016,54,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+366,9/19/2016,13,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+367,5/9/2016,7,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+368,7/5/2016,67,Male,Queens County (Queens),Yes,White,Hispanic
+369,3/12/2016,37,Male,Queens County (Queens),No,Other,Hispanic
+370,10/1/2016,62,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+371,10/8/2016,57,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+372,11/21/2016,39,Female,Queens County (Queens),No,Asian,Not Hispanic
+373,10/11/2016,10,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+374,4/13/2016,25,Male,Queens County (Queens),No,Asian,Not Hispanic
+375,1/20/2016,25,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+376,5/22/2016,46,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+377,1/29/2016,28,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+378,7/25/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+379,11/18/2016,21,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+380,5/8/2016,60,Male,New York County (Manhattan),No,Asian,Hispanic
+381,7/20/2016,68,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+382,7/29/2016,22,Female,New York County (Manhattan),NA,White,Hispanic
+383,9/24/2016,40,Male,New York County (Manhattan),NA,White,Not Hispanic
+384,4/19/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+385,10/17/2016,49,Male,Kings County (Brooklyn),No,White,Not Hispanic
+386,6/25/2016,14,Female,New York County (Manhattan),NA,White,Hispanic
+387,9/25/2016,6,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+388,6/9/2016,49,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+389,4/2/2016,17,Female,Queens County (Queens),No,Asian,Not Hispanic
+390,8/2/2016,17,Female,Queens County (Queens),No,Asian,Not Hispanic
+391,3/30/2016,16,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+392,2/13/2016,39,Female,Queens County (Queens),No,Asian,Not Hispanic
+393,6/8/2016,67,Male,Bronx County (Bronx),No,White,Hispanic
+394,10/27/2016,62,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+395,8/13/2016,45,Female,Queens County (Queens),No,"Asian, Unknown",Not Hispanic
+396,6/16/2016,68,Female,Queens County (Queens),No,Asian,Not Hispanic
+397,1/16/2016,41,Female,Queens County (Queens),NA,Asian,Not Hispanic
+398,3/9/2016,37,Male,Queens County (Queens),No,Asian,Not Hispanic
+399,6/19/2016,30,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+400,3/6/2016,5,Male,Queens County (Queens),No,Asian,Not Hispanic
+401,10/27/2016,16,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+402,10/23/2016,59,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+403,6/4/2016,61,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+404,7/10/2016,66,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+405,3/10/2016,16,Female,Queens County (Queens),No,Asian,Not Hispanic
+406,6/3/2016,65,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+407,2/24/2016,41,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+408,1/18/2016,26,Female,Bronx County (Bronx),NA,White,Hispanic
+409,5/2/2016,16,Male,Queens County (Queens),No,White,Hispanic
+410,5/5/2016,50,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+411,5/19/2016,37,Female,Kings County (Brooklyn),No,White,Not Hispanic
+412,1/4/2016,37,Male,New York County (Manhattan),No,White,Hispanic
+413,7/13/2016,41,Female,Queens County (Queens),No,Asian,Not Hispanic
+414,6/20/2016,47,Female,Queens County (Queens),No,Asian,Not Hispanic
+415,10/22/2016,59,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+416,2/5/2016,54,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+417,1/20/2016,54,Male,Queens County (Queens),NA,Asian,Not Hispanic
+418,2/27/2016,30,Male,Queens County (Queens),No,Asian,Not Hispanic
+419,10/24/2016,5,Female,Kings County (Brooklyn),No,White,Hispanic
+420,2/18/2016,20,Female,Kings County (Brooklyn),Yes,White,Hispanic
+421,3/29/2016,13,Male,New York County (Manhattan),No,Asian,Not Hispanic
+422,10/15/2016,5,Female,Nassau County,No,Asian,Not Hispanic
+423,4/17/2016,19,Female,Queens County (Queens),No,Asian,Not Hispanic
+424,1/6/2016,62,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+425,9/13/2016,27,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+426,4/10/2016,49,Female,New York County (Manhattan),No,Black or African American,Hispanic
+427,5/3/2016,11,Male,Queens County (Queens),No,White,Hispanic
+428,6/26/2016,37,Female,Queens County (Queens),No,Asian,Not Hispanic
+429,5/1/2016,13,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+430,11/21/2016,40,Male,New York County (Manhattan),No,White,Not Hispanic
+431,10/9/2016,42,Female,Kings County (Brooklyn),NA,Asian,Not Hispanic
+432,1/10/2016,13,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+433,1/15/2016,17,Male,Queens County (Queens),No,Asian,Not Hispanic
+434,10/27/2016,11,Female,New York County (Manhattan),No,Asian,Not Hispanic
+435,4/12/2016,57,Female,Queens County (Queens),No,White,Not Hispanic
+436,6/15/2016,45,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+437,9/26/2016,37,Male,Queens County (Queens),No,Asian,Not Hispanic
+438,10/3/2016,8,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+439,1/6/2016,59,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+440,7/21/2016,16,Male,Queens County (Queens),No,White,Hispanic
+441,3/25/2016,68,Male,Queens County (Queens),No,White,Hispanic
+442,11/1/2016,6,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+443,6/22/2016,56,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+444,11/23/2016,50,Male,Bronx County (Bronx),No,White,Hispanic
+445,12/8/2016,16,Male,New York County (Manhattan),Yes,White,Hispanic
+446,7/23/2016,40,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+447,3/22/2016,43,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+448,9/11/2016,45,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+449,5/14/2016,51,Female,Queens County (Queens),No,White,Not Hispanic
+450,1/22/2016,16,Male,Kings County (Brooklyn),No,"White, Unknown",Hispanic
+451,2/21/2016,7,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+452,9/26/2016,47,Male,Queens County (Queens),No,Asian,Not Hispanic
+453,11/8/2016,66,Male,Kings County (Brooklyn),No,White,Hispanic
+454,1/13/2016,64,Male,Kings County (Brooklyn),NA,White,Hispanic
+455,8/23/2016,68,Male,Bronx County (Bronx),No,White,Hispanic
+456,2/17/2016,54,Male,Kings County (Brooklyn),No,"White, Other",Hispanic
+457,8/13/2016,41,Male,Bronx County (Bronx),No,"American Indian or Alaskan Native, Black or Africa",Not Hispanic
+458,9/5/2016,10,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+459,9/13/2016,54,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+460,2/27/2016,34,Female,Queens County (Queens),No,Asian,Not Hispanic
+461,10/3/2016,62,Female,New York County (Manhattan),NA,White,Not Hispanic
+462,9/4/2016,45,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+463,11/30/2016,32,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+464,6/23/2016,58,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+465,6/19/2016,34,Male,Bronx County (Bronx),NA,NA,NA
+466,9/18/2016,7,Male,New York County (Manhattan),No,Asian,Not Hispanic
+467,9/27/2016,12,Male,Queens County (Queens),No,White,Hispanic
+468,5/15/2016,59,Male,Queens County (Queens),No,Asian,Not Hispanic
+469,11/11/2016,18,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+470,4/1/2016,31,Female,Queens County (Queens),No,Asian,Not Hispanic
+471,10/26/2016,25,Female,New York County (Manhattan),NA,White,Not Hispanic
+472,6/25/2016,31,Female,Queens County (Queens),No,Asian,Not Hispanic
+473,7/6/2016,69,Male,Kings County (Brooklyn),No,White,Hispanic
+474,8/27/2016,69,Male,Bronx County (Bronx),No,White,Hispanic
+475,9/12/2016,7,Male,New York County (Manhattan),No,Asian,Not Hispanic
+476,2/8/2016,62,Male,Kings County (Brooklyn),No,White,Hispanic
+477,2/21/2016,58,Male,Queens County (Queens),No,White,Hispanic
+478,8/12/2016,61,Male,Bronx County (Bronx),No,"Asian, White",Not Hispanic
+479,3/2/2016,23,Female,Bronx County (Bronx),No,"Black or African American, White",Hispanic
+480,4/13/2016,14,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+481,12/31/2016,20,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+482,6/18/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+483,11/2/2016,34,Male,Kings County (Brooklyn),No,White,Not Hispanic
+484,8/4/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+485,8/7/2016,17,Male,New York County (Manhattan),No,Asian,Not Hispanic
+486,8/27/2016,12,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+487,7/16/2016,44,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+488,2/11/2016,60,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+489,9/3/2016,35,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+490,1/24/2016,20,Female,Queens County (Queens),No,Asian,Not Hispanic
+491,5/23/2016,69,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+492,6/7/2016,52,Male,Queens County (Queens),No,White,Hispanic
+493,10/20/2016,27,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+494,10/7/2016,29,Male,Queens County (Queens),No,Asian,Not Hispanic
+495,11/18/2016,28,Male,New York County (Manhattan),No,Black or African American,Hispanic
+496,2/6/2016,46,Male,New York County (Manhattan),NA,White,Not Hispanic
+497,11/7/2016,43,Male,New York County (Manhattan),No,Black or African American,Hispanic
+498,9/14/2016,50,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+499,2/1/2016,20,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+500,7/9/2016,58,Male,Queens County (Queens),No,White,Hispanic
+501,6/13/2016,24,Female,Queens County (Queens),No,Asian,Not Hispanic
+502,6/6/2016,44,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+503,1/3/2016,31,Female,Bronx County (Bronx),No,White,Hispanic
+504,5/19/2016,5,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+505,7/14/2016,10,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+506,5/11/2016,63,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+507,1/19/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+508,12/28/2016,24,Female,Queens County (Queens),No,Asian,Not Hispanic
+509,9/18/2016,27,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+510,6/8/2016,47,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+511,11/24/2016,53,Male,Queens County (Queens),No,Other,Hispanic
+512,11/25/2016,34,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+513,6/14/2016,5,Female,Queens County (Queens),No,White,Hispanic
+514,6/16/2016,37,Male,Bronx County (Bronx),No,White,Hispanic
+515,12/30/2016,59,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+516,10/29/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+517,6/3/2016,35,Female,Queens County (Queens),No,Asian,Not Hispanic
+518,5/30/2016,66,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+519,8/23/2016,62,Male,Kings County (Brooklyn),No,White,Not Hispanic
+520,12/23/2016,13,Female,Queens County (Queens),NA,White,Hispanic
+521,3/7/2016,14,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+522,1/11/2016,9,Female,Richmond County (Staten Island),No,White,Hispanic
+523,4/2/2016,37,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+524,2/28/2016,50,Male,New York County (Manhattan),No,Asian,Not Hispanic
+525,7/18/2016,32,Male,Queens County (Queens),No,White,Hispanic
+526,5/31/2016,20,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+527,1/15/2016,5,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+528,6/18/2016,24,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+529,5/16/2016,5,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+530,8/13/2016,17,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+531,9/18/2016,67,Female,Queens County (Queens),NA,White,Not Hispanic
+532,8/11/2016,68,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+533,5/3/2016,56,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+534,4/3/2016,27,Male,Bronx County (Bronx),No,"Black or African American, White",Hispanic
+535,6/17/2016,55,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+536,7/13/2016,19,Male,Queens County (Queens),No,Asian,Not Hispanic
+537,2/14/2016,35,Male,New York County (Manhattan),No,White,Hispanic
+538,1/31/2016,52,Female,Queens County (Queens),No,White,Hispanic
+539,3/9/2016,36,Male,Queens County (Queens),No,White,Hispanic
+540,10/21/2016,44,Female,Queens County (Queens),No,"White, Other",Hispanic
+541,11/21/2016,66,Male,New York County (Manhattan),No,Asian,Not Hispanic
+542,2/5/2016,16,Male,New York County (Manhattan),No,Asian,Not Hispanic
+543,12/21/2016,48,Male,Queens County (Queens),No,Asian,Not Hispanic
+544,7/11/2016,56,Male,Queens County (Queens),No,White,Hispanic
+545,11/8/2016,24,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+546,1/16/2016,65,Male,Queens County (Queens),No,Asian,Not Hispanic
+547,7/31/2016,40,Male,Queens County (Queens),No,Asian,Not Hispanic
+548,7/31/2016,12,Male,Queens County (Queens),No,Asian,Not Hispanic
+549,10/10/2016,6,Male,Queens County (Queens),No,Black or African American,Hispanic
+550,8/10/2016,54,Male,Kings County (Brooklyn),No,Other,Not Hispanic
+551,8/16/2016,35,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+552,8/17/2016,70,Female,New York County (Manhattan),No,Asian,Not Hispanic
+553,7/4/2016,13,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+554,12/6/2016,36,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+555,7/15/2016,39,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+556,3/15/2016,6,Male,Bronx County (Bronx),No,White,Hispanic
+557,6/16/2016,5,Female,Queens County (Queens),No,Asian,Not Hispanic
+558,11/15/2016,59,Male,Queens County (Queens),No,Asian,Not Hispanic
+559,12/25/2016,33,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+560,4/27/2016,70,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+561,9/18/2016,27,Male,New York County (Manhattan),NA,Asian,Not Hispanic
+562,10/11/2016,52,Male,Queens County (Queens),No,Asian,Not Hispanic
+563,6/20/2016,21,Male,Queens County (Queens),No,Asian,Not Hispanic
+564,6/11/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+565,8/31/2016,5,Female,New York County (Manhattan),NA,Black or African American,Hispanic
+566,4/18/2016,35,Female,New York County (Manhattan),No,Asian,Not Hispanic
+567,9/30/2016,33,Female,New York County (Manhattan),No,Asian,Not Hispanic
+568,11/25/2016,48,Male,Queens County (Queens),No,White,Hispanic
+569,6/10/2016,37,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+570,1/7/2016,56,Male,Kings County (Brooklyn),NA,Black or African American,Hispanic
+571,9/29/2016,47,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+572,12/5/2016,69,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+573,9/15/2016,43,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+574,6/27/2016,55,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+575,9/12/2016,67,Male,Queens County (Queens),No,Asian,Not Hispanic
+576,11/13/2016,61,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+577,10/10/2016,60,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+578,2/25/2016,6,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+579,8/12/2016,28,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+580,10/2/2016,36,Male,Queens County (Queens),No,Asian,Not Hispanic
+581,11/3/2016,25,Male,Kings County (Brooklyn),No,White,Not Hispanic
+582,5/15/2016,14,Female,New York County (Manhattan),No,Asian,Not Hispanic
+583,2/15/2016,52,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+584,3/16/2016,32,Male,Queens County (Queens),No,Asian,Not Hispanic
+585,6/12/2016,24,Male,Bronx County (Bronx),No,White,Hispanic
+586,7/9/2016,22,Female,Queens County (Queens),No,Asian,Not Hispanic
+587,1/22/2016,53,Female,Queens County (Queens),No,Asian,Not Hispanic
+588,1/29/2016,38,Male,Queens County (Queens),No,Asian,Not Hispanic
+589,8/25/2016,18,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+590,7/2/2016,25,Male,Queens County (Queens),No,Asian,Not Hispanic
+591,6/18/2016,30,Male,Kings County (Brooklyn),No,White,Not Hispanic
+592,1/1/2016,23,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+593,1/3/2016,48,Male,Queens County (Queens),No,Asian,Not Hispanic
+594,12/31/2016,36,Male,New York County (Manhattan),NA,Asian,Not Hispanic
+595,4/2/2016,56,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+596,10/9/2016,58,Male,Bronx County (Bronx),No,White,Hispanic
+597,1/10/2016,35,Male,Queens County (Queens),No,White,Hispanic
+598,11/24/2016,70,Female,New York County (Manhattan),No,Asian,Not Hispanic
+599,1/24/2016,33,Female,New York County (Manhattan),No,White,Hispanic
+600,2/3/2016,29,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+601,7/13/2016,47,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+602,8/14/2016,38,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+603,5/25/2016,45,Female,New York County (Manhattan),No,Asian,Not Hispanic
+604,8/23/2016,43,Male,New York County (Manhattan),No,Asian,Not Hispanic
+605,12/27/2016,51,Female,Queens County (Queens),No,Asian,Not Hispanic
+606,10/7/2016,38,Female,Queens County (Queens),No,White,Hispanic
+607,7/23/2016,16,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+608,8/14/2016,41,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+609,3/16/2016,11,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+610,7/18/2016,36,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+611,5/24/2016,60,Male,New York County (Manhattan),NA,White,Not Hispanic
+612,7/9/2016,44,Female,Queens County (Queens),NA,Asian,Not Hispanic
+613,7/17/2016,55,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+614,1/30/2016,36,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+615,1/4/2016,32,Female,Queens County (Queens),No,Asian,Not Hispanic
+616,10/9/2016,45,Male,Queens County (Queens),No,Asian,Not Hispanic
+617,5/2/2016,29,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+618,5/26/2016,55,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+619,11/13/2016,41,Male,Bronx County (Bronx),No,White,Hispanic
+620,1/2/2016,57,Male,Queens County (Queens),No,Asian,Not Hispanic
+621,2/11/2016,51,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+622,5/28/2016,5,Female,New York County (Manhattan),No,White,Not Hispanic
+623,8/31/2016,43,Male,Kings County (Brooklyn),No,White,Hispanic
+624,6/30/2016,5,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+625,2/24/2016,45,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+626,5/16/2016,37,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+627,9/15/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+628,5/16/2016,32,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+629,5/21/2016,12,Female,Bronx County (Bronx),No,"Black or African American, White",Hispanic
+630,11/30/2016,12,Male,New York County (Manhattan),Yes,White,Hispanic
+631,7/1/2016,68,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+632,10/9/2016,55,Female,New York County (Manhattan),Yes,White,Hispanic
+633,12/23/2016,46,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+634,5/30/2016,36,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+635,2/18/2016,53,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+636,8/12/2016,41,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+637,7/18/2016,24,Male,Bronx County (Bronx),No,White,Hispanic
+638,1/26/2016,35,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+639,12/13/2016,59,Female,Queens County (Queens),No,White,Hispanic
+640,1/7/2016,48,Male,Bronx County (Bronx),NA,White,Hispanic
+641,12/24/2016,23,Female,Kings County (Brooklyn),No,White,Not Hispanic
+642,11/16/2016,31,Male,New York County (Manhattan),No,Black or African American,Hispanic
+643,1/24/2016,52,Male,Queens County (Queens),No,Asian,Not Hispanic
+644,12/7/2016,5,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+645,3/10/2016,19,Male,Bronx County (Bronx),NA,White,Hispanic
+646,5/19/2016,55,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+647,9/8/2016,35,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+648,11/19/2016,22,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+649,11/21/2016,58,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+650,7/7/2016,47,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+651,6/9/2016,60,Male,Queens County (Queens),No,Asian,Not Hispanic
+652,7/2/2016,29,Female,Queens County (Queens),No,Asian,Not Hispanic
+653,3/23/2016,15,Female,Bronx County (Bronx),No,White,Hispanic
+654,3/24/2016,47,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+655,7/4/2016,34,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+656,11/3/2016,23,Male,Passaic County,Yes,Other,Hispanic
+657,11/14/2016,39,Male,Queens County (Queens),No,Asian,Not Hispanic
+658,3/13/2016,22,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+659,11/19/2016,55,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+660,1/29/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+661,5/4/2016,49,Male,Queens County (Queens),No,Asian,Not Hispanic
+662,11/12/2016,29,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+663,12/7/2016,10,Female,New York County (Manhattan),No,Asian,Not Hispanic
+664,7/17/2016,34,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+665,3/9/2016,52,Female,Bronx County (Bronx),No,White,Not Hispanic
+666,12/19/2016,21,Male,Bronx County (Bronx),No,White,Hispanic
+667,6/29/2016,17,Male,Queens County (Queens),No,White,Hispanic
+668,11/30/2016,65,Male,New York County (Manhattan),No,Asian,Not Hispanic
+669,9/13/2016,19,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+670,6/23/2016,67,Male,Queens County (Queens),No,Asian,Not Hispanic
+671,4/25/2016,31,Male,Bronx County (Bronx),No,White,Hispanic
+672,8/14/2016,23,Male,Kings County (Brooklyn),NA,"White, Unknown",Hispanic
+673,12/26/2016,26,Male,Kings County (Brooklyn),No,"Black or African American, White",Hispanic
+674,6/2/2016,66,Female,Queens County (Queens),NA,Asian,Not Hispanic
+675,8/2/2016,39,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+676,2/13/2016,43,Female,Kings County (Brooklyn),No,White,Not Hispanic
+677,2/11/2016,30,Male,New York County (Manhattan),No,"Asian, Other",Not Hispanic
+678,11/3/2016,52,Female,New York County (Manhattan),No,Asian,Not Hispanic
+679,12/15/2016,23,Female,Queens County (Queens),NA,White,Hispanic
+680,1/11/2016,27,Female,Queens County (Queens),No,Asian,Not Hispanic
+681,2/26/2016,21,Male,New York County (Manhattan),No,Asian,Not Hispanic
+682,1/14/2016,62,Female,Queens County (Queens),No,White,Hispanic
+683,3/26/2016,27,Female,Queens County (Queens),No,Asian,Not Hispanic
+684,5/20/2016,70,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+685,8/6/2016,41,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+686,6/16/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+687,10/27/2016,58,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+688,1/22/2016,62,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+689,8/5/2016,15,Male,Kings County (Brooklyn),No,White,Hispanic
+690,6/23/2016,45,Male,Queens County (Queens),No,Asian,Not Hispanic
+691,2/25/2016,26,Male,Queens County (Queens),No,White,Hispanic
+692,8/1/2016,69,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+693,5/21/2016,56,Male,New York County (Manhattan),No,Asian,Not Hispanic
+694,7/1/2016,36,Male,Bronx County (Bronx),No,White,Hispanic
+695,7/5/2016,48,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+696,2/17/2016,27,Male,Kings County (Brooklyn),No,"Asian, Other",Not Hispanic
+697,9/13/2016,27,Male,Queens County (Queens),No,Asian,Not Hispanic
+698,2/29/2016,70,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+699,3/18/2016,58,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+700,1/8/2016,60,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+701,10/6/2016,64,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+702,10/13/2016,9,Male,Queens County (Queens),No,Asian,Not Hispanic
+703,2/25/2016,27,Male,New York County (Manhattan),No,Asian,Not Hispanic
+704,12/25/2016,13,Male,Kings County (Brooklyn),No,White,Not Hispanic
+705,8/7/2016,35,Male,Kings County (Brooklyn),No,White,Hispanic
+706,4/12/2016,25,Male,Kings County (Brooklyn),No,"White, Other",Hispanic
+707,4/9/2016,15,Male,Queens County (Queens),No,White,Hispanic
+708,12/1/2016,17,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+709,6/3/2016,57,Female,Queens County (Queens),No,Asian,Not Hispanic
+710,6/14/2016,49,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+711,6/29/2016,63,Male,Kings County (Brooklyn),No,White,Hispanic
+712,9/3/2016,48,Female,Queens County (Queens),No,Asian,Not Hispanic
+713,3/29/2016,32,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+714,4/28/2016,5,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+715,11/7/2016,17,Male,Queens County (Queens),NA,White,Hispanic
+716,12/11/2016,54,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+717,11/3/2016,44,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+718,11/11/2016,19,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+719,6/28/2016,64,Female,Queens County (Queens),No,Asian,Not Hispanic
+720,3/28/2016,38,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+721,6/25/2016,62,Male,Queens County (Queens),No,Asian,Not Hispanic
+722,5/24/2016,40,Female,New York County (Manhattan),No,Asian,Not Hispanic
+723,3/12/2016,29,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+724,9/8/2016,59,Male,New York County (Manhattan),NA,White,Not Hispanic
+725,11/13/2016,53,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+726,8/6/2016,60,Male,Queens County (Queens),No,Asian,Not Hispanic
+727,11/28/2016,29,Male,Queens County (Queens),NA,"Black or African American, Unknown",Not Hispanic
+728,12/16/2016,15,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+729,3/2/2016,48,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+730,11/29/2016,25,Female,Queens County (Queens),No,"White, Other",Hispanic
+731,7/8/2016,62,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+732,10/12/2016,23,Male,Queens County (Queens),No,Asian,Not Hispanic
+733,4/3/2016,8,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+734,3/10/2016,10,Female,Queens County (Queens),No,"Asian, Unknown",Not Hispanic
+735,5/26/2016,38,Male,New York County (Manhattan),NA,Black or African American,Hispanic
+736,2/5/2016,44,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+737,9/26/2016,41,Female,Queens County (Queens),No,Asian,Not Hispanic
+738,7/2/2016,57,Male,Richmond County (Staten Island),No,White,Hispanic
+739,12/23/2016,17,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+740,2/17/2016,28,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+741,7/3/2016,9,Female,New York County (Manhattan),No,Asian,Not Hispanic
+742,9/18/2016,59,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+743,6/21/2016,17,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+744,2/19/2016,45,Female,Queens County (Queens),No,White,Hispanic
+745,8/4/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+746,10/13/2016,67,Female,Queens County (Queens),No,White,Hispanic
+747,3/7/2016,9,Female,Queens County (Queens),No,White,Hispanic
+748,5/13/2016,28,Male,Queens County (Queens),No,White,Hispanic
+749,5/10/2016,28,Female,Bronx County (Bronx),Yes,White,Hispanic
+750,5/5/2016,50,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+751,5/26/2016,24,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+752,10/6/2016,62,Male,Queens County (Queens),NA,White,Not Hispanic
+753,7/15/2016,34,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+754,3/10/2016,15,Female,Queens County (Queens),No,Asian,Not Hispanic
+755,9/27/2016,45,Female,Kings County (Brooklyn),No,White,Hispanic
+756,9/18/2016,28,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+757,10/2/2016,24,Male,Queens County (Queens),No,Asian,Not Hispanic
+758,8/31/2016,32,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+759,4/22/2016,7,Male,Queens County (Queens),No,White,Hispanic
+760,1/22/2016,66,Male,Dutchess County,NA,Black or African American,Not Hispanic
+761,4/12/2016,14,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+762,1/15/2016,27,Male,Queens County (Queens),No,White,Hispanic
+763,11/18/2016,67,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+764,1/13/2016,61,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+765,7/6/2016,29,Female,Bronx County (Bronx),No,White,Not Hispanic
+766,2/23/2016,34,Female,Queens County (Queens),Yes,Asian,Not Hispanic
+767,4/24/2016,19,Male,Queens County (Queens),No,Asian,Not Hispanic
+768,1/19/2016,62,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+769,6/16/2016,22,Female,Queens County (Queens),No,Asian,Not Hispanic
+770,10/2/2016,55,Male,Queens County (Queens),NA,White,Not Hispanic
+771,1/3/2016,19,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+772,6/26/2016,8,NA,NA,NA,NA,NA
+773,3/6/2016,30,Male,New York County (Manhattan),No,Asian,Not Hispanic
+774,5/27/2016,34,Female,Queens County (Queens),No,Asian,Not Hispanic
+775,2/17/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+776,11/25/2016,50,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+777,1/20/2016,20,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+778,12/24/2016,32,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+779,6/21/2016,17,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+780,11/12/2016,16,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+781,11/5/2016,33,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+782,1/7/2016,37,Male,Kings County (Brooklyn),No,White,Hispanic
+783,3/23/2016,5,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+784,9/12/2016,26,Female,Queens County (Queens),No,Asian,Not Hispanic
+785,6/7/2016,32,Female,New York County (Manhattan),No,Asian,Not Hispanic
+786,2/12/2016,18,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+787,10/2/2016,28,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+788,3/24/2016,33,Male,Kings County (Brooklyn),No,White,Hispanic
+789,5/2/2016,29,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+790,7/21/2016,50,Female,Queens County (Queens),No,Asian,Not Hispanic
+791,8/16/2016,31,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+792,8/20/2016,42,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+793,2/8/2016,58,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+794,1/12/2016,19,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+795,12/11/2016,32,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+796,6/16/2016,14,Female,Bronx County (Bronx),No,White,Not Hispanic
+797,9/7/2016,9,Male,Queens County (Queens),No,"White, Other",Hispanic
+798,10/21/2016,66,Male,Kings County (Brooklyn),NA,White,Hispanic
+799,1/9/2016,65,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+800,12/25/2016,26,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+801,3/4/2016,21,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+802,2/21/2016,6,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+803,6/14/2016,58,Female,Queens County (Queens),No,Asian,Not Hispanic
+804,3/26/2016,41,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+805,12/22/2016,55,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+806,5/22/2016,54,Male,Queens County (Queens),No,Asian,Not Hispanic
+807,8/9/2016,62,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+808,11/22/2016,46,Male,Queens County (Queens),No,"Asian, White",Not Hispanic
+809,10/31/2016,53,Male,Queens County (Queens),No,Asian,Not Hispanic
+810,1/30/2016,64,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+811,6/30/2016,9,Male,Queens County (Queens),No,Asian,Not Hispanic
+812,2/14/2016,20,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+813,12/10/2016,63,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+814,12/23/2016,6,Female,New York County (Manhattan),NA,White,Not Hispanic
+815,1/24/2016,14,Male,Queens County (Queens),No,White,Hispanic
+816,5/31/2016,69,Male,Queens County (Queens),No,Asian,Not Hispanic
+817,7/11/2016,51,Male,Queens County (Queens),No,Asian,Not Hispanic
+818,8/2/2016,51,Male,Bronx County (Bronx),No,White,Hispanic
+819,5/8/2016,24,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+820,5/23/2016,55,Male,Kings County (Brooklyn),No,Other,Hispanic
+821,12/25/2016,16,Male,Queens County (Queens),No,Asian,Not Hispanic
+822,3/5/2016,19,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+823,4/16/2016,47,Male,Kings County (Brooklyn),No,Other,Hispanic
+824,6/23/2016,46,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+825,8/16/2016,27,Female,Queens County (Queens),No,White,Hispanic
+826,10/8/2016,66,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+827,10/14/2016,50,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+828,10/4/2016,38,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+829,4/3/2016,50,Female,Queens County (Queens),NA,White,Hispanic
+830,5/1/2016,60,Female,New York County (Manhattan),Yes,Black or African American,Hispanic
+831,1/14/2016,67,NA,Middlesex County,NA,NA,NA
+832,8/11/2016,6,Male,Queens County (Queens),No,Asian,Not Hispanic
+833,11/3/2016,8,Male,Kings County (Brooklyn),No,White,Hispanic
+834,1/21/2016,11,Male,Queens County (Queens),No,White,Hispanic
+835,2/9/2016,66,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+836,3/23/2016,8,Female,New York County (Manhattan),NA,White,Not Hispanic
+837,8/13/2016,12,Male,Kings County (Brooklyn),No,White,Hispanic
+838,2/20/2016,39,Female,Kings County (Brooklyn),Yes,Asian,Not Hispanic
+839,10/20/2016,11,Male,Queens County (Queens),No,Asian,Not Hispanic
+840,4/9/2016,25,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+841,5/23/2016,33,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+842,3/18/2016,57,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+843,1/24/2016,67,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+844,10/12/2016,65,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+845,11/6/2016,7,Female,New York County (Manhattan),No,Asian,Not Hispanic
+846,2/15/2016,68,Male,Kings County (Brooklyn),No,White,Hispanic
+847,8/15/2016,62,Female,Queens County (Queens),No,Asian,Not Hispanic
+848,7/9/2016,7,Male,Queens County (Queens),No,White,Hispanic
+849,2/21/2016,45,Male,New York County (Manhattan),NA,Other,Hispanic
+850,2/10/2016,62,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+851,8/31/2016,14,Male,Queens County (Queens),No,Asian,Not Hispanic
+852,4/20/2016,46,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+853,1/2/2016,15,Female,Queens County (Queens),No,Asian,Not Hispanic
+854,6/7/2016,30,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+855,12/28/2016,33,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+856,11/23/2016,47,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+857,11/16/2016,32,Male,Queens County (Queens),No,Asian,Not Hispanic
+858,8/11/2016,25,Male,Queens County (Queens),No,Asian,Not Hispanic
+859,8/17/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+860,3/6/2016,35,Male,New York County (Manhattan),No,White,Hispanic
+861,6/27/2016,30,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+862,6/16/2016,70,Female,Queens County (Queens),No,White,Hispanic
+863,2/29/2016,31,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+864,11/24/2016,37,Male,Richmond County (Staten Island),NA,White,Not Hispanic
+865,7/20/2016,27,Male,Queens County (Queens),No,Asian,Not Hispanic
+866,10/15/2016,61,Male,Kings County (Brooklyn),Yes,White,Hispanic
+867,7/19/2016,27,Female,Queens County (Queens),No,White,Hispanic
+868,3/13/2016,30,Male,Kings County (Brooklyn),No,White,Not Hispanic
+869,12/12/2016,49,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+870,11/23/2016,27,Male,Queens County (Queens),No,White,Not Hispanic
+871,1/9/2016,66,Male,New York County (Manhattan),No,Asian,Not Hispanic
+872,1/16/2016,8,Male,Queens County (Queens),No,Asian,Not Hispanic
+873,8/31/2016,54,Male,Queens County (Queens),No,White,Hispanic
+874,7/22/2016,69,Male,New York County (Manhattan),No,Asian,Not Hispanic
+875,10/14/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+876,12/30/2016,38,Male,New York County (Manhattan),No,Asian,Not Hispanic
+877,8/2/2016,40,Male,New York County (Manhattan),No,Asian,Not Hispanic
+878,7/12/2016,12,Male,Queens County (Queens),No,"Black or African American, White",Hispanic
+879,4/10/2016,42,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+880,10/23/2016,5,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+881,8/14/2016,38,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+882,2/21/2016,40,Female,New York County (Manhattan),No,White,Hispanic
+883,4/19/2016,28,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+884,9/7/2016,6,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+885,6/19/2016,19,Female,New York County (Manhattan),NA,White,Not Hispanic
+886,12/24/2016,54,Male,New York County (Manhattan),No,Asian,Not Hispanic
+887,11/27/2016,70,Female,Queens County (Queens),No,White,Hispanic
+888,10/25/2016,19,Male,Queens County (Queens),NA,Asian,Not Hispanic
+889,2/13/2016,32,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+890,11/3/2016,15,Male,Bronx County (Bronx),No,White,Hispanic
+891,12/30/2016,17,Male,Bronx County (Bronx),No,White,Hispanic
+892,2/12/2016,33,Female,Bronx County (Bronx),No,White,Hispanic
+893,7/30/2016,50,Male,New York County (Manhattan),No,Asian,Not Hispanic
+894,2/26/2016,60,Male,Queens County (Queens),No,White,Hispanic
+895,1/24/2016,8,Male,Kings County (Brooklyn),No,White,Not Hispanic
+896,1/23/2016,53,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+897,10/14/2016,64,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+898,9/18/2016,51,Male,Kings County (Brooklyn),No,"Asian, Other",Not Hispanic
+899,9/24/2016,44,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+900,1/3/2016,70,Male,Queens County (Queens),No,Asian,Not Hispanic
+901,6/26/2016,26,Male,Bronx County (Bronx),No,"White, Other",Hispanic
+902,8/4/2016,69,Female,New York County (Manhattan),No,Asian,Not Hispanic
+903,10/30/2016,45,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+904,5/12/2016,25,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+905,5/7/2016,7,Male,Queens County (Queens),No,Asian,Not Hispanic
+906,11/4/2016,18,Male,New York County (Manhattan),No,Asian,Not Hispanic
+907,1/4/2016,50,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+908,8/1/2016,50,Female,Queens County (Queens),No,Other,Hispanic
+909,2/20/2016,49,Male,Queens County (Queens),No,Asian,Not Hispanic
+910,12/2/2016,13,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+911,4/24/2016,32,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+912,10/10/2016,36,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+913,7/6/2016,47,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+914,11/16/2016,29,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+915,11/24/2016,51,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+916,6/18/2016,13,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+917,8/7/2016,19,Male,New York County (Manhattan),Yes,Black or African American,Hispanic
+918,10/7/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+919,5/25/2016,33,Female,Queens County (Queens),No,Asian,Not Hispanic
+920,1/11/2016,24,NA,Westchester County,NA,Unknown,Unknown
+921,8/31/2016,17,Male,Bronx County (Bronx),No,White,Hispanic
+922,3/14/2016,5,Male,Bronx County (Bronx),No,White,Hispanic
+923,11/1/2016,39,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+924,3/4/2016,52,Male,Queens County (Queens),No,"White, Other",Hispanic
+925,7/4/2016,42,Female,Kings County (Brooklyn),No,"Asian, Black or African American",Not Hispanic
+926,3/25/2016,56,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+927,7/6/2016,59,Female,Queens County (Queens),No,Asian,Not Hispanic
+928,5/8/2016,48,Male,Queens County (Queens),No,"White, Unknown",Hispanic
+929,12/9/2016,15,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+930,10/28/2016,20,Female,Queens County (Queens),No,Asian,Not Hispanic
+931,10/18/2016,9,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+932,4/7/2016,64,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+933,8/16/2016,64,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+934,11/9/2016,13,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+935,5/25/2016,27,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+936,3/18/2016,5,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+937,6/17/2016,14,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+938,1/18/2016,58,Female,Bronx County (Bronx),No,Other,Hispanic
+939,7/21/2016,39,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+940,8/7/2016,51,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+941,10/9/2016,48,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+942,12/12/2016,61,Male,New York County (Manhattan),No,Black or African American,Hispanic
+943,8/20/2016,66,Male,New York County (Manhattan),No,Black or African American,Hispanic
+944,5/1/2016,25,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+945,2/17/2016,28,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+946,8/12/2016,54,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+947,12/7/2016,63,Male,New York County (Manhattan),No,Asian,Not Hispanic
+948,7/16/2016,21,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+949,3/11/2016,61,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+950,11/5/2016,27,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+951,7/5/2016,11,Male,Kings County (Brooklyn),NA,White,Hispanic
+952,12/15/2016,62,Female,Queens County (Queens),No,White,Not Hispanic
+953,10/24/2016,18,Male,Queens County (Queens),No,Asian,Not Hispanic
+954,12/29/2016,53,Male,New York County (Manhattan),No,White,Hispanic
+955,7/30/2016,31,Female,Kings County (Brooklyn),NA,Other,Not Hispanic
+956,7/27/2016,44,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+957,2/5/2016,35,Male,Bronx County (Bronx),No,White,Hispanic
+958,8/23/2016,46,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+959,8/22/2016,9,Male,Queens County (Queens),NA,Other,Hispanic
+960,11/7/2016,25,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+961,9/1/2016,61,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+962,5/13/2016,26,Male,Kings County (Brooklyn),NA,Unknown,Not Hispanic
+963,12/2/2016,52,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+964,4/13/2016,30,Male,Bronx County (Bronx),No,White,Hispanic
+965,9/1/2016,53,Male,Queens County (Queens),No,Asian,Not Hispanic
+966,11/5/2016,32,Male,Queens County (Queens),No,"White, Other",Hispanic
+967,10/16/2016,65,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+968,5/7/2016,50,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+969,2/25/2016,21,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+970,1/10/2016,31,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+971,1/12/2016,48,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+972,11/3/2016,66,Female,Kings County (Brooklyn),No,White,Hispanic
+973,8/17/2016,12,Female,New York County (Manhattan),No,Asian,Not Hispanic
+974,5/3/2016,50,Male,Queens County (Queens),No,Asian,Not Hispanic
+975,6/16/2016,39,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+976,7/30/2016,44,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+977,5/5/2016,12,Male,New York County (Manhattan),No,White,Not Hispanic
+978,2/22/2016,24,Female,Kings County (Brooklyn),NA,Black or African American,Unknown
+979,2/21/2016,43,Male,Kings County (Brooklyn),No,White,Not Hispanic
+980,5/19/2016,9,Male,Queens County (Queens),No,Asian,Not Hispanic
+981,5/30/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+982,9/17/2016,66,Male,Queens County (Queens),No,Asian,Not Hispanic
+983,6/22/2016,20,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+984,11/12/2016,16,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+985,3/29/2016,37,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+986,2/1/2016,37,Female,Queens County (Queens),No,Asian,Not Hispanic
+987,11/18/2016,51,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+988,8/29/2016,51,Female,Queens County (Queens),No,Asian,Not Hispanic
+989,10/27/2016,9,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+990,2/1/2016,16,Male,Queens County (Queens),No,Asian,Not Hispanic
+991,7/22/2016,46,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+992,3/30/2016,10,Male,New York County (Manhattan),No,Black or African American,Hispanic
+993,8/2/2016,32,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+994,8/31/2016,6,Female,Queens County (Queens),No,Asian,Not Hispanic
+995,12/10/2016,15,Male,Kings County (Brooklyn),No,White,Hispanic
+996,3/3/2016,19,Male,Richmond County (Staten Island),No,Asian,Hispanic
+997,5/19/2016,38,Female,Queens County (Queens),No,Asian,Not Hispanic
+998,1/30/2016,26,NA,NA,NA,NA,NA
+999,5/15/2016,33,Female,Queens County (Queens),No,"Black or African American, Other",Hispanic
+1000,7/31/2016,5,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1001,4/25/2016,58,Male,Queens County (Queens),No,White,Hispanic
+1002,3/4/2016,22,Male,Bronx County (Bronx),No,White,Hispanic
+1003,6/17/2016,38,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1004,3/11/2016,63,Male,Middlesex County,No,White,Hispanic
+1005,9/5/2016,47,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1006,3/28/2016,32,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1007,4/10/2016,42,Female,Queens County (Queens),No,White,Hispanic
+1008,6/4/2016,15,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1009,7/30/2016,33,Male,Queens County (Queens),No,White,Hispanic
+1010,9/19/2016,27,Female,Queens County (Queens),No,White,Hispanic
+1011,8/16/2016,11,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1012,5/13/2016,50,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1013,11/23/2016,29,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1014,12/7/2016,39,Female,Queens County (Queens),No,Asian,Not Hispanic
+1015,10/24/2016,52,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1016,11/29/2016,17,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1017,6/2/2016,27,Female,Queens County (Queens),No,Asian,Not Hispanic
+1018,7/22/2016,64,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1019,4/26/2016,53,Male,Kings County (Brooklyn),No,Asian,Hispanic
+1020,6/29/2016,31,Male,Queens County (Queens),No,Asian,Not Hispanic
+1021,3/20/2016,45,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1022,12/14/2016,66,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+1023,8/14/2016,53,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1024,7/28/2016,41,Male,Queens County (Queens),No,Asian,Not Hispanic
+1025,6/11/2016,5,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1026,12/19/2016,60,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+1027,3/29/2016,27,Male,Queens County (Queens),NA,Other,Hispanic
+1028,2/28/2016,56,Male,Queens County (Queens),No,Asian,Not Hispanic
+1029,10/11/2016,14,Female,Bronx County (Bronx),No,White,Hispanic
+1030,3/2/2016,51,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1031,8/20/2016,35,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1032,8/12/2016,57,Female,Bronx County (Bronx),NA,White,Not Hispanic
+1033,5/15/2016,55,Male,Kings County (Brooklyn),No,White,Hispanic
+1034,12/27/2016,46,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1035,1/21/2016,54,Female,Queens County (Queens),No,Asian,Not Hispanic
+1036,4/21/2016,59,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1037,1/9/2016,19,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1038,10/22/2016,6,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1039,8/25/2016,50,Female,Queens County (Queens),No,Asian,Not Hispanic
+1040,11/30/2016,56,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1041,1/28/2016,50,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1042,7/22/2016,16,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1043,8/7/2016,55,Female,Queens County (Queens),No,"Black or African American, Other",Not Hispanic
+1044,4/8/2016,39,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1045,5/2/2016,45,Male,New York County (Manhattan),NA,Black or African American,Unknown
+1046,3/18/2016,27,Male,Bronx County (Bronx),No,White,Hispanic
+1047,7/25/2016,24,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1048,1/29/2016,9,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1049,2/21/2016,33,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1050,1/30/2016,12,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1051,5/9/2016,69,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1052,3/10/2016,9,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1053,10/23/2016,64,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1054,8/11/2016,53,Male,Kings County (Brooklyn),NA,White,Hispanic
+1055,12/15/2016,70,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1056,8/12/2016,22,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1057,4/28/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+1058,4/25/2016,68,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1059,10/6/2016,17,Male,Bronx County (Bronx),No,White,Hispanic
+1060,12/18/2016,39,Male,Kings County (Brooklyn),No,White,Hispanic
+1061,5/11/2016,63,Male,Bronx County (Bronx),No,White,Hispanic
+1062,11/8/2016,21,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1063,5/27/2016,43,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1064,12/23/2016,51,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1065,11/29/2016,44,Female,Bronx County (Bronx),No,Unknown,Hispanic
+1066,10/6/2016,56,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1067,4/14/2016,13,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1068,1/21/2016,61,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1069,4/30/2016,34,Female,Kings County (Brooklyn),No,White,Hispanic
+1070,1/28/2016,25,Male,Queens County (Queens),No,"White, Other",Hispanic
+1071,2/14/2016,24,Male,Queens County (Queens),No,Asian,Not Hispanic
+1072,4/10/2016,24,Male,Queens County (Queens),No,Asian,Not Hispanic
+1073,8/9/2016,36,Female,Queens County (Queens),No,Asian,Not Hispanic
+1074,3/13/2016,17,Female,Queens County (Queens),NA,Asian,Not Hispanic
+1075,4/5/2016,45,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1076,5/29/2016,20,Female,New York County (Manhattan),No,White,Not Hispanic
+1077,5/3/2016,26,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1078,8/12/2016,59,Female,New York County (Manhattan),No,White,Hispanic
+1079,11/12/2016,12,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1080,1/18/2016,13,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1081,11/22/2016,48,Male,Bronx County (Bronx),No,White,Hispanic
+1082,9/19/2016,67,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1083,12/17/2016,49,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1084,1/30/2016,15,Male,Kings County (Brooklyn),No,White,Hispanic
+1085,10/21/2016,63,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1086,2/5/2016,29,Male,Queens County (Queens),No,Asian,Not Hispanic
+1087,5/20/2016,11,Female,Queens County (Queens),No,"White, Other",Hispanic
+1088,3/15/2016,52,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1089,11/18/2016,52,Male,Bronx County (Bronx),No,White,Hispanic
+1090,2/12/2016,47,Male,Bronx County (Bronx),Yes,"White, Other",Hispanic
+1091,6/16/2016,22,Male,Bronx County (Bronx),No,White,Hispanic
+1092,7/25/2016,9,Male,Queens County (Queens),No,"White, Other",Hispanic
+1093,11/25/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+1094,9/14/2016,44,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1095,12/24/2016,42,Female,New York County (Manhattan),Yes,White,Hispanic
+1096,11/25/2016,64,Male,Queens County (Queens),No,White,Hispanic
+1097,7/14/2016,30,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1098,9/23/2016,70,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1099,8/31/2016,33,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1100,4/7/2016,26,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+1101,3/25/2016,5,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1102,3/25/2016,13,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1103,7/4/2016,24,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1104,5/30/2016,66,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1105,11/4/2016,51,Female,Queens County (Queens),No,Asian,Not Hispanic
+1106,5/1/2016,58,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1107,4/15/2016,21,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1108,9/21/2016,55,Male,Queens County (Queens),No,Asian,Not Hispanic
+1109,1/12/2016,53,Female,Queens County (Queens),No,Asian,Not Hispanic
+1110,10/1/2016,41,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1111,4/18/2016,40,Male,Richmond County (Staten Island),NA,Black or African American,Not Hispanic
+1112,4/28/2016,12,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1113,1/9/2016,55,Male,Queens County (Queens),No,"American Indian or Alaskan Native, Other",Not Hispanic
+1114,6/23/2016,11,Female,New York County (Manhattan),No,Black or African American,Hispanic
+1115,6/22/2016,9,Female,Queens County (Queens),No,Asian,Not Hispanic
+1116,1/23/2016,13,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+1117,7/10/2016,36,Male,Queens County (Queens),No,Asian,Not Hispanic
+1118,11/23/2016,18,Female,Queens County (Queens),No,White,Hispanic
+1119,10/21/2016,10,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1120,4/1/2016,48,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1121,2/18/2016,29,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1122,6/21/2016,44,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1123,9/8/2016,8,Male,Queens County (Queens),No,Asian,Not Hispanic
+1124,12/23/2016,65,Female,Queens County (Queens),No,"White, Other",Hispanic
+1125,4/18/2016,6,Female,Queens County (Queens),No,"White, Other",Hispanic
+1126,7/4/2016,44,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1127,2/17/2016,63,Female,Kings County (Brooklyn),No,Other,Hispanic
+1128,3/12/2016,42,Female,Queens County (Queens),No,Asian,Not Hispanic
+1129,12/2/2016,68,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1130,11/7/2016,54,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1131,12/25/2016,33,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1132,11/13/2016,23,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1133,11/6/2016,59,Male,Queens County (Queens),No,Asian,Not Hispanic
+1134,7/28/2016,50,Male,Queens County (Queens),No,Asian,Not Hispanic
+1135,6/25/2016,57,Male,Bronx County (Bronx),No,White,Hispanic
+1136,12/31/2016,70,Female,Queens County (Queens),No,Asian,Not Hispanic
+1137,4/25/2016,9,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1138,4/30/2016,64,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1139,9/2/2016,12,Female,Baltimore County,No,Black or African American,Hispanic
+1140,11/18/2016,68,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1141,9/24/2016,46,Male,Bronx County (Bronx),No,Other,Not Hispanic
+1142,10/10/2016,18,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1143,3/25/2016,46,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+1144,4/30/2016,49,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1145,6/22/2016,36,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1146,9/27/2016,25,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1147,3/5/2016,11,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1148,12/13/2016,5,Female,Kings County (Brooklyn),Yes,"White, Unknown",Hispanic
+1149,2/19/2016,17,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1150,1/20/2016,31,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+1151,7/30/2016,41,Male,Queens County (Queens),No,Asian,Not Hispanic
+1152,11/14/2016,51,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1153,6/8/2016,32,Male,Kings County (Brooklyn),No,White,Hispanic
+1154,7/9/2016,27,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1155,1/1/2016,39,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1156,12/4/2016,51,Female,Kings County (Brooklyn),No,White,Hispanic
+1157,12/19/2016,45,Male,Queens County (Queens),No,Asian,Not Hispanic
+1158,5/4/2016,19,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1159,10/2/2016,19,Female,Queens County (Queens),No,Asian,Not Hispanic
+1160,3/7/2016,36,Female,Queens County (Queens),No,Asian,Not Hispanic
+1161,10/2/2016,6,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1162,1/18/2016,62,Male,Bronx County (Bronx),NA,Asian,Not Hispanic
+1163,4/1/2016,26,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1164,1/20/2016,70,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1165,1/26/2016,58,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1166,5/30/2016,60,Male,Queens County (Queens),No,Asian,Not Hispanic
+1167,11/10/2016,57,Male,Bronx County (Bronx),No,White,Hispanic
+1168,12/25/2016,38,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1169,9/23/2016,12,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1170,9/15/2016,61,Female,New York County (Manhattan),NA,Other,Hispanic
+1171,12/28/2016,17,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1172,9/16/2016,70,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1173,10/11/2016,64,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1174,12/29/2016,22,Male,Bronx County (Bronx),No,White,Hispanic
+1175,4/29/2016,62,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1176,12/15/2016,34,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1177,8/6/2016,67,Female,Queens County (Queens),Yes,"White, Other",Hispanic
+1178,5/14/2016,28,Female,Bronx County (Bronx),No,White,Hispanic
+1179,2/12/2016,69,Female,Queens County (Queens),No,White,Hispanic
+1180,12/5/2016,64,Female,Queens County (Queens),No,Asian,Not Hispanic
+1181,12/29/2016,28,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1182,9/19/2016,7,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1183,7/4/2016,32,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1184,2/19/2016,55,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1185,12/23/2016,46,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+1186,3/23/2016,35,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1187,6/2/2016,53,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1188,11/8/2016,69,Female,Queens County (Queens),No,Asian,Not Hispanic
+1189,11/17/2016,14,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1190,4/25/2016,52,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1191,12/8/2016,32,Male,Queens County (Queens),No,Asian,Not Hispanic
+1192,9/3/2016,13,Male,Bronx County (Bronx),No,White,Hispanic
+1193,7/4/2016,35,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1194,12/23/2016,5,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1195,2/28/2016,44,Male,Queens County (Queens),No,Asian,Not Hispanic
+1196,7/31/2016,34,Male,Queens County (Queens),No,White,Hispanic
+1197,12/23/2016,21,Male,Queens County (Queens),No,Asian,Not Hispanic
+1198,2/28/2016,22,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1199,6/6/2016,35,Male,Queens County (Queens),Yes,White,Hispanic
+1200,7/27/2016,65,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1201,4/8/2016,43,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1202,4/16/2016,47,Male,Queens County (Queens),No,White,Hispanic
+1203,5/18/2016,32,Female,Queens County (Queens),No,Asian,Not Hispanic
+1204,6/23/2016,54,Female,Queens County (Queens),No,White,Not Hispanic
+1205,8/8/2016,14,Male,Richmond County (Staten Island),No,Black or African American,Not Hispanic
+1206,6/11/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+1207,6/17/2016,47,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1208,10/6/2016,28,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1209,2/13/2016,17,Male,Queens County (Queens),No,Other,Hispanic
+1210,9/6/2016,64,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1211,10/31/2016,44,Male,Kings County (Brooklyn),No,White,Hispanic
+1212,8/4/2016,51,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1213,12/30/2016,44,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1214,8/30/2016,24,Male,Bronx County (Bronx),No,White,Hispanic
+1215,6/27/2016,54,Male,New York County (Manhattan),NA,White,Hispanic
+1216,6/29/2016,9,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1217,2/1/2016,6,Male,Queens County (Queens),No,Asian,Not Hispanic
+1218,10/13/2016,68,Male,Queens County (Queens),No,Asian,Not Hispanic
+1219,11/19/2016,23,Male,Queens County (Queens),No,Asian,Not Hispanic
+1220,2/13/2016,46,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1221,2/24/2016,47,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1222,9/27/2016,26,Female,Bronx County (Bronx),NA,White,Hispanic
+1223,3/11/2016,66,Male,Queens County (Queens),No,Asian,Not Hispanic
+1224,2/11/2016,38,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1225,2/18/2016,16,Female,Queens County (Queens),No,"White, Other",Hispanic
+1226,12/4/2016,49,Male,Kings County (Brooklyn),No,Other,Not Hispanic
+1227,4/23/2016,50,Female,Queens County (Queens),No,Asian,Not Hispanic
+1228,11/5/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+1229,8/26/2016,67,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1230,3/6/2016,64,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1231,11/28/2016,46,Male,New York County (Manhattan),No,White,Not Hispanic
+1232,9/13/2016,53,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1233,10/19/2016,15,Female,Queens County (Queens),No,Asian,Not Hispanic
+1234,11/13/2016,8,Male,Queens County (Queens),No,Asian,Not Hispanic
+1235,4/7/2016,35,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1236,8/24/2016,14,Male,New York County (Manhattan),NA,Black or African American,Hispanic
+1237,12/3/2016,28,Female,Bronx County (Bronx),No,White,Not Hispanic
+1238,6/9/2016,56,Female,New York County (Manhattan),NA,White,Not Hispanic
+1239,10/4/2016,13,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1240,8/9/2016,20,Male,Bronx County (Bronx),No,White,Hispanic
+1241,10/18/2016,29,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1242,2/4/2016,40,Male,Queens County (Queens),No,Asian,Not Hispanic
+1243,6/11/2016,43,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1244,12/24/2016,22,Male,Queens County (Queens),No,White,Hispanic
+1245,9/8/2016,25,Female,Kings County (Brooklyn),NA,Other,Hispanic
+1246,6/9/2016,5,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1247,4/22/2016,44,Female,Queens County (Queens),No,Asian,Not Hispanic
+1248,7/2/2016,69,Female,Queens County (Queens),No,Asian,Not Hispanic
+1249,2/29/2016,55,Male,Queens County (Queens),No,Asian,Not Hispanic
+1250,3/4/2016,26,Male,New York County (Manhattan),No,Black or African American,Hispanic
+1251,1/2/2016,60,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1252,5/2/2016,21,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1253,12/16/2016,47,Female,Queens County (Queens),No,Asian,Not Hispanic
+1254,10/8/2016,43,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+1255,4/7/2016,51,Male,Queens County (Queens),No,"Asian, White",Not Hispanic
+1256,8/16/2016,54,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1257,6/25/2016,19,Female,Queens County (Queens),No,White,Hispanic
+1258,7/4/2016,62,Male,Queens County (Queens),No,Asian,Not Hispanic
+1259,7/28/2016,59,Male,Ulster County,No,"Asian, Other",Not Hispanic
+1260,2/19/2016,19,Male,Bronx County (Bronx),NA,White,Hispanic
+1261,9/13/2016,13,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1262,11/29/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1263,2/16/2016,34,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1264,8/2/2016,33,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1265,3/2/2016,23,Male,Queens County (Queens),No,Asian,Not Hispanic
+1266,8/27/2016,40,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1267,10/1/2016,57,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1268,4/20/2016,16,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1269,7/15/2016,70,Male,Queens County (Queens),NA,NA,Unknown
+1270,2/14/2016,67,Male,Queens County (Queens),No,"Asian, Black or African American",Not Hispanic
+1271,1/25/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+1272,5/25/2016,67,Male,Queens County (Queens),No,White,Hispanic
+1273,1/13/2016,43,Male,Bronx County (Bronx),Yes,White,Hispanic
+1274,5/27/2016,64,Female,Queens County (Queens),No,Asian,Not Hispanic
+1275,12/22/2016,66,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1276,10/23/2016,36,Female,Queens County (Queens),No,Asian,Not Hispanic
+1277,8/31/2016,42,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1278,2/26/2016,37,Female,Queens County (Queens),No,Other,Hispanic
+1279,11/29/2016,65,Female,Queens County (Queens),No,Asian,Not Hispanic
+1280,3/30/2016,68,Male,Queens County (Queens),No,Asian,Not Hispanic
+1281,7/6/2016,49,Female,Bronx County (Bronx),NA,White,Hispanic
+1282,2/13/2016,52,Male,Richmond County (Staten Island),NA,White,Not Hispanic
+1283,9/9/2016,7,Male,Queens County (Queens),No,Asian,Not Hispanic
+1284,3/26/2016,12,Male,Richmond County (Staten Island),NA,White,Not Hispanic
+1285,10/5/2016,44,Male,Queens County (Queens),No,"White, Other",Hispanic
+1286,1/10/2016,29,Female,Queens County (Queens),No,Asian,Not Hispanic
+1287,12/28/2016,16,Male,Queens County (Queens),No,Other,Not Hispanic
+1288,7/1/2016,23,Female,Queens County (Queens),No,"Asian, Black or African American, Other, Unknown",Not Hispanic
+1289,5/5/2016,12,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1290,6/3/2016,38,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1291,6/4/2016,26,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1292,4/19/2016,9,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1293,12/25/2016,64,Male,Queens County (Queens),No,Asian,Not Hispanic
+1294,10/31/2016,54,Male,Queens County (Queens),No,Asian,Not Hispanic
+1295,6/22/2016,22,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1296,9/8/2016,31,Male,Queens County (Queens),No,Asian,Not Hispanic
+1297,3/28/2016,22,Female,Queens County (Queens),No,White,Not Hispanic
+1298,10/21/2016,57,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+1299,11/20/2016,8,Male,Queens County (Queens),No,White,Hispanic
+1300,4/1/2016,45,Male,Queens County (Queens),No,Asian,Not Hispanic
+1301,7/30/2016,17,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1302,6/5/2016,48,Male,Bronx County (Bronx),No,Other,Not Hispanic
+1303,2/28/2016,40,Male,Queens County (Queens),No,"Black or African American, Other",Hispanic
+1304,10/5/2016,34,Male,New York County (Manhattan),No,Other,Not Hispanic
+1305,12/12/2016,22,Male,Queens County (Queens),No,Asian,Not Hispanic
+1306,3/30/2016,17,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+1307,10/19/2016,8,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1308,6/15/2016,25,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1309,11/28/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1310,5/12/2016,64,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1311,3/17/2016,5,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1312,10/14/2016,60,Male,Queens County (Queens),No,Asian,Not Hispanic
+1313,8/5/2016,60,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+1314,4/12/2016,33,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1315,2/3/2016,6,Male,Queens County (Queens),No,Asian,Not Hispanic
+1316,5/24/2016,11,Male,Richmond County (Staten Island),NA,Black or African American,Not Hispanic
+1317,10/4/2016,36,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1318,9/20/2016,36,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1319,3/22/2016,66,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1320,5/8/2016,67,Male,Kings County (Brooklyn),NA,White,Hispanic
+1321,1/1/2016,20,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1322,8/25/2016,24,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1323,9/1/2016,64,Male,Bronx County (Bronx),NA,Unknown,Hispanic
+1324,2/2/2016,16,Female,Bronx County (Bronx),No,White,Hispanic
+1325,11/16/2016,26,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1326,6/13/2016,24,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1327,11/2/2016,27,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1328,6/9/2016,42,Male,Queens County (Queens),No,White,Hispanic
+1329,11/9/2016,12,Male,Queens County (Queens),No,Asian,Not Hispanic
+1330,6/14/2016,5,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1331,4/15/2016,20,Female,Queens County (Queens),No,Asian,Not Hispanic
+1332,10/16/2016,9,Female,Queens County (Queens),NA,White,Hispanic
+1333,5/7/2016,34,Female,Bronx County (Bronx),No,White,Hispanic
+1334,8/25/2016,61,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1335,7/9/2016,27,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1336,4/1/2016,46,Female,Queens County (Queens),No,Asian,Not Hispanic
+1337,9/15/2016,20,Female,Queens County (Queens),No,Asian,Not Hispanic
+1338,1/24/2016,60,Male,Queens County (Queens),No,Asian,Not Hispanic
+1339,2/17/2016,36,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1340,11/21/2016,35,Male,Queens County (Queens),No,Asian,Not Hispanic
+1341,5/21/2016,61,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1342,7/23/2016,31,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+1343,11/10/2016,48,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1344,4/27/2016,14,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1345,3/23/2016,25,Male,Queens County (Queens),No,Asian,Not Hispanic
+1346,8/29/2016,29,Male,Kings County (Brooklyn),No,Other,Hispanic
+1347,9/4/2016,53,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1348,2/2/2016,70,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1349,11/27/2016,43,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+1350,4/12/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+1351,2/10/2016,12,Male,New York County (Manhattan),No,Other,Hispanic
+1352,4/18/2016,23,Female,Queens County (Queens),No,Asian,Not Hispanic
+1353,12/18/2016,42,Male,Kings County (Brooklyn),No,White,Hispanic
+1354,1/4/2016,49,Female,Queens County (Queens),No,White,Hispanic
+1355,4/29/2016,50,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1356,10/27/2016,68,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1357,6/18/2016,13,Male,Bronx County (Bronx),No,White,Hispanic
+1358,7/25/2016,64,Male,Queens County (Queens),No,Asian,Not Hispanic
+1359,9/11/2016,67,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1360,1/26/2016,6,Male,Queens County (Queens),NA,NA,NA
+1361,3/18/2016,43,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1362,5/11/2016,32,Female,Bronx County (Bronx),No,White,Not Hispanic
+1363,6/22/2016,32,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1364,2/13/2016,56,Male,Queens County (Queens),No,Asian,Not Hispanic
+1365,10/3/2016,64,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1366,6/17/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+1367,1/12/2016,8,Male,Queens County (Queens),No,Asian,Not Hispanic
+1368,7/25/2016,45,Male,Bronx County (Bronx),No,White,Hispanic
+1369,1/2/2016,16,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+1370,2/21/2016,35,Female,Queens County (Queens),No,Asian,Not Hispanic
+1371,1/23/2016,33,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1372,2/3/2016,21,Male,Queens County (Queens),No,White,Hispanic
+1373,8/4/2016,49,Male,Queens County (Queens),No,Asian,Not Hispanic
+1374,4/6/2016,46,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1375,12/3/2016,59,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1376,11/17/2016,65,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+1377,2/2/2016,20,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1378,6/20/2016,34,Male,Queens County (Queens),No,Asian,Not Hispanic
+1379,1/4/2016,22,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1380,11/26/2016,59,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1381,7/15/2016,35,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1382,2/17/2016,42,Male,Bronx County (Bronx),No,White,Hispanic
+1383,8/25/2016,5,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1384,12/17/2016,6,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+1385,9/9/2016,67,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1386,1/8/2016,68,Female,Queens County (Queens),No,Asian,Not Hispanic
+1387,5/12/2016,39,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1388,2/22/2016,24,Female,Queens County (Queens),Yes,Asian,Not Hispanic
+1389,1/29/2016,52,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1390,3/22/2016,13,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1391,8/12/2016,8,Female,Queens County (Queens),No,White,Hispanic
+1392,4/28/2016,65,Female,New York County (Manhattan),NA,White,Not Hispanic
+1393,6/10/2016,8,Male,New York County (Manhattan),No,Black or African American,Hispanic
+1394,3/23/2016,40,Male,Queens County (Queens),No,Asian,Not Hispanic
+1395,2/7/2016,48,Female,Queens County (Queens),No,Asian,Not Hispanic
+1396,4/16/2016,25,Male,Queens County (Queens),NA,White,Not Hispanic
+1397,4/14/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+1398,7/11/2016,30,Male,Queens County (Queens),No,White,Not Hispanic
+1399,9/22/2016,40,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1400,11/30/2016,53,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1401,7/30/2016,7,Male,New York County (Manhattan),No,White,Hispanic
+1402,6/29/2016,22,Female,Bronx County (Bronx),No,White,Hispanic
+1403,7/22/2016,67,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+1404,6/22/2016,17,Female,New York County (Manhattan),NA,White,Not Hispanic
+1405,11/8/2016,51,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1406,2/20/2016,29,Male,Queens County (Queens),No,Asian,Not Hispanic
+1407,1/8/2016,30,Male,New York County (Manhattan),No,White,Hispanic
+1408,1/18/2016,19,Male,Kings County (Brooklyn),No,White,Hispanic
+1409,11/9/2016,18,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1410,6/10/2016,43,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1411,6/16/2016,21,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1412,9/2/2016,48,Male,Queens County (Queens),NA,Asian,Not Hispanic
+1413,12/27/2016,11,Male,Queens County (Queens),No,Asian,Not Hispanic
+1414,3/5/2016,11,Male,Queens County (Queens),No,Asian,Not Hispanic
+1415,8/19/2016,57,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1416,2/14/2016,57,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1417,12/9/2016,8,Female,Queens County (Queens),NA,White,Hispanic
+1418,10/11/2016,64,Female,Queens County (Queens),NA,Asian,Not Hispanic
+1419,5/8/2016,42,NA,Kings County (Brooklyn),No,Asian,Not Hispanic
+1420,7/31/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+1421,12/2/2016,11,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1422,12/31/2016,35,Female,Queens County (Queens),No,Asian,Not Hispanic
+1423,4/29/2016,63,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1424,1/7/2016,35,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1425,7/9/2016,21,Male,Queens County (Queens),No,Asian,Not Hispanic
+1426,8/6/2016,50,Male,Queens County (Queens),No,White,Hispanic
+1427,8/7/2016,33,Female,New York County (Manhattan),No,White,Hispanic
+1428,10/24/2016,37,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1429,5/18/2016,21,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1430,3/9/2016,58,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1431,7/21/2016,36,Female,Queens County (Queens),No,White,Hispanic
+1432,5/13/2016,65,Male,Queens County (Queens),No,Other,Not Hispanic
+1433,10/5/2016,22,Female,Queens County (Queens),No,Asian,Not Hispanic
+1434,7/31/2016,36,Male,New York County (Manhattan),No,White,Hispanic
+1435,1/1/2016,47,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1436,12/13/2016,10,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1437,9/29/2016,37,Male,Kings County (Brooklyn),No,Other,Hispanic
+1438,9/20/2016,55,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1439,7/6/2016,48,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1440,9/2/2016,28,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1441,9/27/2016,20,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1442,12/20/2016,28,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+1443,2/8/2016,63,Female,Queens County (Queens),No,Asian,Not Hispanic
+1444,11/30/2016,65,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1445,12/8/2016,28,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1446,5/18/2016,69,Female,New York County (Manhattan),NA,Asian,Not Hispanic
+1447,9/22/2016,45,Female,Queens County (Queens),No,Asian,Not Hispanic
+1448,8/2/2016,57,Male,Queens County (Queens),No,Asian,Not Hispanic
+1449,11/29/2016,27,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+1450,7/5/2016,26,Male,Bronx County (Bronx),No,White,Hispanic
+1451,10/16/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1452,12/10/2016,16,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1453,7/18/2016,39,Male,Queens County (Queens),No,Asian,Not Hispanic
+1454,5/12/2016,18,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1455,11/17/2016,49,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1456,5/6/2016,26,Female,Queens County (Queens),No,Asian,Not Hispanic
+1457,6/13/2016,49,Male,Queens County (Queens),No,Asian,Not Hispanic
+1458,11/4/2016,47,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1459,12/30/2016,39,Male,Queens County (Queens),No,White,Hispanic
+1460,1/30/2016,20,Male,Kings County (Brooklyn),No,White,Hispanic
+1461,10/4/2016,63,Male,Queens County (Queens),No,Asian,Not Hispanic
+1462,11/8/2016,8,Male,New York County (Manhattan),NA,White,Not Hispanic
+1463,3/27/2016,55,Male,Queens County (Queens),No,Asian,Not Hispanic
+1464,3/17/2016,40,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1465,8/9/2016,35,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1466,6/27/2016,70,Female,Queens County (Queens),No,Asian,Not Hispanic
+1467,3/5/2016,41,NA,Queens County (Queens),NA,Asian,Not Hispanic
+1468,7/5/2016,6,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1469,9/8/2016,9,Male,Queens County (Queens),No,Asian,Not Hispanic
+1470,4/8/2016,37,Male,Queens County (Queens),No,Asian,Not Hispanic
+1471,3/31/2016,55,Female,Kings County (Brooklyn),Yes,Black or African American,Not Hispanic
+1472,4/8/2016,42,Male,New York County (Manhattan),NA,Asian,Not Hispanic
+1473,4/9/2016,68,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1474,1/16/2016,26,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1475,12/10/2016,27,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1476,9/25/2016,28,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1477,8/18/2016,64,Male,Queens County (Queens),No,White,Hispanic
+1478,5/20/2016,66,Female,Kings County (Brooklyn),No,Black or African American,Hispanic
+1479,7/13/2016,24,Male,Queens County (Queens),No,Asian,Not Hispanic
+1480,3/18/2016,27,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1481,9/13/2016,58,Female,Queens County (Queens),No,Asian,Not Hispanic
+1482,11/13/2016,21,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1483,4/4/2016,53,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1484,3/21/2016,46,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1485,9/17/2016,16,Male,Kings County (Brooklyn),No,Other,Hispanic
+1486,10/6/2016,41,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1487,11/22/2016,55,Male,Richmond County (Staten Island),NA,Asian,Not Hispanic
+1488,10/13/2016,45,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1489,1/12/2016,14,Female,Kings County (Brooklyn),NA,NA,Unknown
+1490,6/19/2016,33,Male,NA,No,Other,Not Hispanic
+1491,6/25/2016,52,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+1492,7/31/2016,17,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1493,3/22/2016,44,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1494,10/6/2016,57,Male,Queens County (Queens),No,Asian,Not Hispanic
+1495,3/14/2016,64,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1496,2/25/2016,15,Male,New York County (Manhattan),NA,Other,Hispanic
+1497,6/23/2016,54,NA,Bronx County (Bronx),NA,White,Not Hispanic
+1498,12/2/2016,51,Male,Queens County (Queens),No,Asian,Not Hispanic
+1499,7/23/2016,23,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1500,1/24/2016,65,Female,Kings County (Brooklyn),No,Black or African American,Hispanic
+1501,9/30/2016,36,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1502,12/30/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+1503,2/10/2016,34,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1504,6/19/2016,10,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1505,5/6/2016,11,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1506,5/26/2016,15,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1507,1/2/2016,29,Male,Richmond County (Staten Island),NA,Black or African American,Not Hispanic
+1508,1/6/2016,70,Male,Queens County (Queens),No,Asian,Not Hispanic
+1509,4/30/2016,9,Female,New York County (Manhattan),No,White,Hispanic
+1510,3/14/2016,29,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1511,4/13/2016,70,Male,Kings County (Brooklyn),Yes,Black or African American,Hispanic
+1512,7/20/2016,32,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1513,8/19/2016,5,Female,Queens County (Queens),No,Asian,Not Hispanic
+1514,7/30/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+1515,10/24/2016,15,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1516,1/26/2016,27,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1517,12/20/2016,35,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1518,1/18/2016,15,Female,Queens County (Queens),No,Asian,Not Hispanic
+1519,3/17/2016,30,Male,Kings County (Brooklyn),NA,Other,Hispanic
+1520,5/30/2016,14,Female,Queens County (Queens),No,Asian,Not Hispanic
+1521,12/21/2016,16,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1522,7/18/2016,25,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+1523,8/29/2016,5,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1524,10/15/2016,43,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1525,6/27/2016,39,Male,Queens County (Queens),No,Asian,Not Hispanic
+1526,6/2/2016,38,Female,Queens County (Queens),No,Asian,Not Hispanic
+1527,6/18/2016,46,Female,Bronx County (Bronx),NA,Asian,Not Hispanic
+1528,8/7/2016,20,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+1529,5/26/2016,12,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1530,6/10/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+1531,10/18/2016,11,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1532,3/9/2016,61,NA,NA,NA,White,Not Hispanic
+1533,6/24/2016,62,Male,Queens County (Queens),No,White,Hispanic
+1534,6/25/2016,26,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1535,12/7/2016,20,NA,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1536,1/17/2016,31,Female,Queens County (Queens),NA,Asian,Not Hispanic
+1537,3/19/2016,55,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1538,9/11/2016,57,NA,NA,NA,NA,NA
+1539,12/29/2016,42,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1540,1/15/2016,60,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1541,9/1/2016,25,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1542,6/10/2016,38,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+1543,6/22/2016,7,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1544,10/13/2016,46,Male,Queens County (Queens),No,Black or African American,Hispanic
+1545,1/3/2016,15,Female,Queens County (Queens),No,Asian,Not Hispanic
+1546,11/6/2016,45,Male,Kings County (Brooklyn),NA,White,Hispanic
+1547,11/2/2016,45,Male,Queens County (Queens),No,Asian,Not Hispanic
+1548,1/7/2016,53,Female,Queens County (Queens),No,Asian,Not Hispanic
+1549,1/14/2016,15,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1550,4/15/2016,47,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1551,6/23/2016,67,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1552,1/28/2016,17,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1553,12/23/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+1554,1/19/2016,66,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1555,2/21/2016,9,Female,Queens County (Queens),No,NA,Unknown
+1556,1/10/2016,27,Male,Queens County (Queens),NA,"American Indian or Alaskan Native, White",Not Hispanic
+1557,9/19/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1558,11/28/2016,11,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+1559,4/17/2016,51,Female,Queens County (Queens),No,White,Hispanic
+1560,6/23/2016,54,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+1561,9/29/2016,64,NA,NA,NA,NA,NA
+1562,4/8/2016,48,NA,Queens County (Queens),NA,Asian,Not Hispanic
+1563,5/4/2016,28,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1564,9/11/2016,31,Female,Queens County (Queens),No,White,Hispanic
+1565,4/6/2016,32,NA,NA,NA,NA,NA
+1566,8/21/2016,29,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1567,7/6/2016,58,Male,Queens County (Queens),No,Asian,Not Hispanic
+1568,5/25/2016,38,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1569,11/15/2016,36,Female,Queens County (Queens),No,Other,Not Hispanic
+1570,4/28/2016,9,Male,Queens County (Queens),No,Asian,Not Hispanic
+1571,7/30/2016,67,Male,Queens County (Queens),NA,White,Not Hispanic
+1572,4/27/2016,38,Male,Queens County (Queens),NA,White,Not Hispanic
+1573,8/8/2016,18,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1574,3/11/2016,14,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1575,5/26/2016,54,Male,Kings County (Brooklyn),No,White,Hispanic
+1576,5/8/2016,47,Female,Kings County (Brooklyn),NA,White,Hispanic
+1577,6/27/2016,56,Male,Queens County (Queens),No,Asian,Not Hispanic
+1578,4/17/2016,23,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1579,1/23/2016,50,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+1580,9/19/2016,42,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1581,11/16/2016,50,Female,Queens County (Queens),No,Asian,Not Hispanic
+1582,12/16/2016,15,Male,New York County (Manhattan),NA,Other,Hispanic
+1583,4/18/2016,57,Female,New York County (Manhattan),NA,White,Hispanic
+1584,10/13/2016,15,Female,New York County (Manhattan),No,White,Hispanic
+1585,10/24/2016,24,Female,Queens County (Queens),No,Asian,Not Hispanic
+1586,11/23/2016,13,Male,Kings County (Brooklyn),No,Other,Hispanic
+1587,9/29/2016,32,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1588,9/1/2016,51,Female,New York County (Manhattan),No,White,Not Hispanic
+1589,5/18/2016,62,Male,Queens County (Queens),No,Asian,Not Hispanic
+1590,3/4/2016,26,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+1591,9/13/2016,60,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1592,5/18/2016,26,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1593,12/27/2016,16,Male,New York County (Manhattan),NA,Asian,Not Hispanic
+1594,1/18/2016,24,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1595,11/21/2016,52,Female,Kings County (Brooklyn),Yes,White,Hispanic
+1596,7/29/2016,55,Male,Queens County (Queens),No,Asian,Not Hispanic
+1597,4/30/2016,27,Male,Queens County (Queens),No,Asian,Not Hispanic
+1598,2/2/2016,46,Female,Queens County (Queens),No,Asian,Not Hispanic
+1599,11/19/2016,38,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1600,6/18/2016,59,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1601,10/18/2016,39,NA,New York County (Manhattan),No,Black or African American,Not Hispanic
+1602,9/6/2016,8,Female,Queens County (Queens),No,Asian,Not Hispanic
+1603,11/8/2016,42,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1604,4/26/2016,9,Male,Queens County (Queens),No,"White, Other",Hispanic
+1605,11/25/2016,33,Female,New York County (Manhattan),No,Black or African American,Hispanic
+1606,12/27/2016,13,Male,Queens County (Queens),No,Asian,Not Hispanic
+1607,9/27/2016,63,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1608,4/17/2016,44,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1609,7/27/2016,25,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1610,9/12/2016,68,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1611,4/21/2016,70,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1612,10/13/2016,67,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1613,9/26/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+1614,5/22/2016,52,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1615,2/8/2016,11,Female,New York County (Manhattan),NA,White,Not Hispanic
+1616,2/4/2016,34,Male,Queens County (Queens),No,White,Hispanic
+1617,11/6/2016,10,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1618,8/28/2016,39,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1619,2/12/2016,57,Female,Bronx County (Bronx),No,White,Hispanic
+1620,6/5/2016,68,Male,Queens County (Queens),No,White,Hispanic
+1621,8/24/2016,32,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1622,2/16/2016,54,Female,Queens County (Queens),No,Asian,Not Hispanic
+1623,9/11/2016,14,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1624,10/5/2016,48,Male,Queens County (Queens),No,Asian,Not Hispanic
+1625,1/10/2016,16,Male,Queens County (Queens),No,"Black or African American, Other",Hispanic
+1626,1/6/2016,67,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1627,6/27/2016,66,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1628,7/18/2016,49,Male,Queens County (Queens),No,Asian,Not Hispanic
+1629,1/16/2016,6,Female,Queens County (Queens),NA,White,Not Hispanic
+1630,6/23/2016,69,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1631,12/29/2016,63,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1632,2/28/2016,45,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1633,1/22/2016,65,Male,Queens County (Queens),No,White,Hispanic
+1634,11/15/2016,29,Female,Queens County (Queens),No,Asian,Not Hispanic
+1635,5/29/2016,48,Male,Kings County (Brooklyn),NA,Black or African American,Hispanic
+1636,8/27/2016,63,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1637,3/19/2016,13,Male,New York County (Manhattan),No,Other,Hispanic
+1638,8/16/2016,55,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1639,12/16/2016,68,Female,Kings County (Brooklyn),No,White,Hispanic
+1640,8/12/2016,49,Male,Queens County (Queens),NA,White,Not Hispanic
+1641,8/25/2016,39,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1642,4/24/2016,47,Male,New York County (Manhattan),No,Other,Not Hispanic
+1643,4/8/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+1644,8/20/2016,40,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+1645,2/17/2016,63,Female,Kings County (Brooklyn),No,Native Hawaiian or Pacific Islander,Not Hispanic
+1646,9/10/2016,15,Female,New York County (Manhattan),No,White,Hispanic
+1647,12/11/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+1648,9/29/2016,22,Female,Kings County (Brooklyn),No,Other,Hispanic
+1649,10/3/2016,16,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1650,4/27/2016,51,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1651,10/14/2016,60,Female,Queens County (Queens),No,Asian,Not Hispanic
+1652,3/5/2016,41,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1653,10/6/2016,9,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1654,6/3/2016,45,Female,New York County (Manhattan),No,"Asian, White",Not Hispanic
+1655,7/23/2016,56,Male,Richmond County (Staten Island),NA,White,Not Hispanic
+1656,9/9/2016,29,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1657,11/20/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+1658,7/15/2016,52,Female,Queens County (Queens),NA,Other,Hispanic
+1659,9/16/2016,19,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+1660,4/22/2016,42,Male,Queens County (Queens),No,Asian,Not Hispanic
+1661,9/5/2016,24,Male,Queens County (Queens),No,White,Hispanic
+1662,6/14/2016,42,Male,Queens County (Queens),No,White,Hispanic
+1663,8/20/2016,60,Female,Bronx County (Bronx),No,White,Hispanic
+1664,1/7/2016,44,Female,Queens County (Queens),No,Asian,Not Hispanic
+1665,3/7/2016,48,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1666,11/15/2016,68,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1667,10/31/2016,44,Male,Queens County (Queens),No,Asian,Not Hispanic
+1668,12/21/2016,5,Female,Queens County (Queens),No,White,Hispanic
+1669,1/24/2016,9,Male,Queens County (Queens),No,Asian,Not Hispanic
+1670,8/10/2016,51,Male,Bronx County (Bronx),No,White,Hispanic
+1671,5/13/2016,55,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1672,7/28/2016,65,Male,Bronx County (Bronx),No,White,Hispanic
+1673,4/20/2016,13,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1674,11/9/2016,69,NA,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1675,3/22/2016,32,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1676,12/27/2016,64,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1677,9/3/2016,32,Male,Queens County (Queens),No,White,Hispanic
+1678,4/30/2016,22,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1679,11/23/2016,25,Male,Queens County (Queens),No,Asian,Not Hispanic
+1680,1/23/2016,53,Male,Queens County (Queens),No,"White, Other",Hispanic
+1681,7/3/2016,50,Female,Queens County (Queens),No,Asian,Not Hispanic
+1682,10/13/2016,17,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1683,5/13/2016,54,Female,Queens County (Queens),No,White,Hispanic
+1684,9/3/2016,68,Female,Queens County (Queens),No,Asian,Not Hispanic
+1685,7/22/2016,15,Male,New York County (Manhattan),No,White,Hispanic
+1686,9/23/2016,22,Male,Queens County (Queens),No,Asian,Not Hispanic
+1687,9/9/2016,42,Female,Bronx County (Bronx),No,White,Hispanic
+1688,9/6/2016,14,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1689,5/19/2016,58,Male,Queens County (Queens),No,Asian,Not Hispanic
+1690,1/19/2016,10,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1691,3/27/2016,13,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1692,6/1/2016,39,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1693,5/26/2016,13,Male,Bronx County (Bronx),No,White,Hispanic
+1694,1/23/2016,12,Male,Queens County (Queens),NA,White,Not Hispanic
+1695,11/3/2016,19,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1696,5/8/2016,61,Male,Queens County (Queens),No,Asian,Not Hispanic
+1697,10/19/2016,63,Male,New York County (Manhattan),No,White,Hispanic
+1698,5/2/2016,39,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1699,9/8/2016,16,Female,New York County (Manhattan),No,Other,Hispanic
+1700,5/10/2016,9,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+1701,5/14/2016,56,Male,Queens County (Queens),No,Asian,Not Hispanic
+1702,8/2/2016,61,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1703,5/2/2016,45,Male,Queens County (Queens),No,Asian,Not Hispanic
+1704,6/19/2016,61,NA,New York County (Manhattan),NA,NA,Unknown
+1705,6/8/2016,49,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1706,8/17/2016,53,Female,Queens County (Queens),No,Asian,Not Hispanic
+1707,6/1/2016,68,Male,Queens County (Queens),No,Asian,Not Hispanic
+1708,5/11/2016,25,Female,Bronx County (Bronx),No,White,Hispanic
+1709,1/11/2016,52,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+1710,2/24/2016,31,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1711,10/25/2016,66,Male,Kings County (Brooklyn),No,"Asian, Other",Not Hispanic
+1712,6/12/2016,17,Female,Queens County (Queens),No,Asian,Not Hispanic
+1713,10/18/2016,9,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1714,3/14/2016,31,Female,Queens County (Queens),No,Other,Hispanic
+1715,10/31/2016,65,Female,Bronx County (Bronx),No,White,Hispanic
+1716,2/29/2016,63,Female,Kings County (Brooklyn),No,Black or African American,Hispanic
+1717,9/27/2016,26,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+1718,6/29/2016,12,Female,Queens County (Queens),No,Asian,Not Hispanic
+1719,3/10/2016,11,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1720,9/2/2016,16,Male,Queens County (Queens),No,Asian,Not Hispanic
+1721,7/15/2016,11,Male,Queens County (Queens),No,Asian,Not Hispanic
+1722,12/3/2016,68,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1723,2/13/2016,48,Male,Queens County (Queens),No,Asian,Not Hispanic
+1724,4/15/2016,46,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1725,3/29/2016,9,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1726,3/12/2016,18,Male,Bronx County (Bronx),No,White,Hispanic
+1727,5/11/2016,10,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1728,9/8/2016,38,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1729,8/14/2016,7,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1730,9/21/2016,25,Male,Queens County (Queens),No,"White, Other",Hispanic
+1731,6/24/2016,39,Male,Queens County (Queens),No,Other,Hispanic
+1732,12/14/2016,8,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1733,2/28/2016,41,Male,Bronx County (Bronx),NA,White,Hispanic
+1734,6/20/2016,25,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1735,6/10/2016,67,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+1736,5/17/2016,63,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1737,9/11/2016,23,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1738,11/28/2016,57,Male,Queens County (Queens),No,Asian,Not Hispanic
+1739,11/7/2016,36,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1740,2/24/2016,61,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1741,12/31/2016,35,Male,Bronx County (Bronx),No,White,Not Hispanic
+1742,12/24/2016,70,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1743,4/10/2016,33,Male,New York County (Manhattan),NA,"White, Other",Hispanic
+1744,12/14/2016,19,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+1745,1/20/2016,32,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1746,10/10/2016,6,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1747,7/20/2016,19,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1748,7/1/2016,63,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1749,1/20/2016,63,Female,Richmond County (Staten Island),No,White,Not Hispanic
+1750,1/4/2016,39,Male,Kings County (Brooklyn),No,White,Hispanic
+1751,4/24/2016,25,Female,Queens County (Queens),No,Asian,Not Hispanic
+1752,4/10/2016,27,Female,Queens County (Queens),No,Asian,Not Hispanic
+1753,9/5/2016,26,Male,Queens County (Queens),No,White,Hispanic
+1754,4/15/2016,37,Male,Bronx County (Bronx),No,White,Hispanic
+1755,12/5/2016,21,Female,Bronx County (Bronx),No,White,Hispanic
+1756,12/31/2016,53,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1757,11/19/2016,9,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1758,11/8/2016,45,Female,Bronx County (Bronx),No,White,Hispanic
+1759,9/6/2016,39,Female,Queens County (Queens),No,Asian,Not Hispanic
+1760,1/26/2016,50,Female,Kings County (Brooklyn),No,"White, Other",Hispanic
+1761,1/20/2016,6,Female,Bronx County (Bronx),NA,White,Hispanic
+1762,4/2/2016,52,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1763,11/18/2016,16,Female,Queens County (Queens),No,"White, Other",Hispanic
+1764,8/30/2016,41,Male,New York County (Manhattan),NA,White,Hispanic
+1765,7/21/2016,23,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1766,10/6/2016,56,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1767,5/31/2016,55,Female,Kings County (Brooklyn),NA,White,Hispanic
+1768,12/5/2016,11,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+1769,2/17/2016,28,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1770,7/1/2016,10,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1771,9/25/2016,54,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1772,8/22/2016,39,Male,New York County (Manhattan),NA,White,Not Hispanic
+1773,4/9/2016,45,Male,Bronx County (Bronx),No,White,Hispanic
+1774,7/18/2016,60,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1775,5/30/2016,26,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1776,4/20/2016,46,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1777,2/2/2016,17,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1778,9/11/2016,23,Male,New York County (Manhattan),No,White,Hispanic
+1779,8/13/2016,17,Male,Queens County (Queens),No,White,Not Hispanic
+1780,3/14/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+1781,11/1/2016,34,Male,Queens County (Queens),No,Asian,Not Hispanic
+1782,3/23/2016,14,Female,Queens County (Queens),No,Asian,Not Hispanic
+1783,10/4/2016,48,Male,Queens County (Queens),No,Asian,Not Hispanic
+1784,3/6/2016,29,Male,Kings County (Brooklyn),NA,Other,Hispanic
+1785,10/28/2016,61,Male,Queens County (Queens),No,Asian,Not Hispanic
+1786,12/6/2016,55,Male,Queens County (Queens),No,Other,Hispanic
+1787,8/5/2016,25,Female,Queens County (Queens),No,Asian,Not Hispanic
+1788,1/28/2016,13,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1789,5/16/2016,68,Male,Queens County (Queens),No,Asian,Not Hispanic
+1790,5/27/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+1791,2/16/2016,66,Female,Bronx County (Bronx),NA,White,Not Hispanic
+1792,9/25/2016,48,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1793,12/22/2016,17,Male,New York County (Manhattan),No,White,Hispanic
+1794,3/24/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+1795,12/11/2016,29,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1796,10/15/2016,14,Female,Queens County (Queens),No,White,Hispanic
+1797,2/20/2016,26,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1798,12/23/2016,65,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1799,11/28/2016,55,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+1800,3/30/2016,40,Female,Queens County (Queens),NA,White,Hispanic
+1801,9/28/2016,10,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+1802,2/8/2016,40,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+1803,9/4/2016,54,Male,Queens County (Queens),No,Asian,Not Hispanic
+1804,5/24/2016,51,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1805,4/9/2016,12,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1806,5/17/2016,64,Female,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1807,4/16/2016,49,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1808,5/16/2016,58,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1809,10/9/2016,25,Female,Queens County (Queens),No,"White, Other",Hispanic
+1810,12/13/2016,65,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1811,8/6/2016,37,Female,Queens County (Queens),No,Asian,Not Hispanic
+1812,12/24/2016,44,Male,New York County (Manhattan),NA,White,Not Hispanic
+1813,11/12/2016,53,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+1814,7/8/2016,47,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+1815,4/18/2016,35,Male,Queens County (Queens),No,"White, Other",Hispanic
+1816,9/16/2016,67,Male,Queens County (Queens),No,"White, Other",Hispanic
+1817,5/13/2016,61,Female,Richmond County (Staten Island),No,Black or African American,Not Hispanic
+1818,10/3/2016,14,Male,Queens County (Queens),No,"White, Other",Hispanic
+1819,2/18/2016,43,Female,Bronx County (Bronx),No,White,Hispanic
+1820,8/21/2016,58,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1821,6/21/2016,60,Female,Queens County (Queens),No,Asian,Not Hispanic
+1822,12/23/2016,70,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1823,11/27/2016,22,Female,Queens County (Queens),No,Asian,Not Hispanic
+1824,1/22/2016,26,Male,Queens County (Queens),No,Asian,Not Hispanic
+1825,3/16/2016,63,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1826,11/11/2016,7,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1827,1/24/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+1828,3/25/2016,48,Female,Queens County (Queens),No,Asian,Not Hispanic
+1829,7/5/2016,47,Female,Queens County (Queens),No,Asian,Not Hispanic
+1830,6/3/2016,52,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+1831,11/29/2016,70,Female,Queens County (Queens),No,Asian,Not Hispanic
+1832,10/3/2016,52,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1833,2/11/2016,43,Female,Bronx County (Bronx),No,Other,Hispanic
+1834,12/23/2016,28,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1835,9/19/2016,14,Female,Queens County (Queens),No,Asian,Not Hispanic
+1836,9/18/2016,32,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1837,3/28/2016,14,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1838,4/18/2016,19,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1839,11/27/2016,42,Female,Queens County (Queens),No,Asian,Not Hispanic
+1840,4/25/2016,24,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1841,9/13/2016,15,Female,Queens County (Queens),No,White,Hispanic
+1842,3/23/2016,18,Male,Kings County (Brooklyn),No,White,Hispanic
+1843,9/9/2016,42,Female,New York County (Manhattan),No,White,Not Hispanic
+1844,2/24/2016,40,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+1845,4/27/2016,11,Male,Queens County (Queens),No,Asian,Not Hispanic
+1846,4/16/2016,30,Male,Queens County (Queens),No,Asian,Not Hispanic
+1847,1/2/2016,49,Female,Queens County (Queens),No,Asian,Not Hispanic
+1848,11/13/2016,62,Male,Bronx County (Bronx),No,White,Not Hispanic
+1849,1/18/2016,47,Male,Kings County (Brooklyn),No,Other,Hispanic
+1850,7/29/2016,38,Female,Queens County (Queens),No,Asian,Not Hispanic
+1851,2/18/2016,56,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1852,4/17/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+1853,3/16/2016,9,Male,Bronx County (Bronx),No,White,Hispanic
+1854,11/17/2016,48,Female,Bronx County (Bronx),NA,Black or African American,Hispanic
+1855,5/6/2016,8,Male,Queens County (Queens),No,White,Hispanic
+1856,1/30/2016,59,Female,Queens County (Queens),No,Asian,Not Hispanic
+1857,4/22/2016,17,Male,New York County (Manhattan),No,White,Hispanic
+1858,3/29/2016,54,Female,Queens County (Queens),No,White,Hispanic
+1859,3/4/2016,40,Female,Bronx County (Bronx),No,White,Hispanic
+1860,9/22/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+1861,2/22/2016,65,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1862,4/11/2016,30,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1863,4/2/2016,68,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1864,3/22/2016,12,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1865,12/3/2016,50,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+1866,2/8/2016,8,Female,New York County (Manhattan),NA,Black or African American,Hispanic
+1867,5/28/2016,26,Female,Bronx County (Bronx),No,White,Hispanic
+1868,10/12/2016,61,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1869,3/21/2016,58,Male,Bronx County (Bronx),No,White,Not Hispanic
+1870,5/19/2016,11,Male,New York County (Manhattan),NA,White,Not Hispanic
+1871,6/2/2016,45,Male,New York County (Manhattan),No,Other,Hispanic
+1872,2/19/2016,34,Male,Queens County (Queens),No,Asian,Not Hispanic
+1873,8/14/2016,61,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1874,1/8/2016,24,Female,Kings County (Brooklyn),NA,White,Hispanic
+1875,7/29/2016,50,Male,Kings County (Brooklyn),No,White,Hispanic
+1876,9/11/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1877,12/19/2016,38,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1878,12/1/2016,35,Female,Queens County (Queens),No,Asian,Not Hispanic
+1879,3/22/2016,47,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1880,1/24/2016,14,Male,Queens County (Queens),No,Asian,Not Hispanic
+1881,5/28/2016,8,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1882,1/31/2016,29,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1883,4/9/2016,14,Male,Queens County (Queens),No,Asian,Not Hispanic
+1884,8/7/2016,47,Female,Bronx County (Bronx),No,White,Hispanic
+1885,2/9/2016,39,Female,Queens County (Queens),No,White,Hispanic
+1886,8/10/2016,25,Female,Kings County (Brooklyn),NA,Other,Hispanic
+1887,12/18/2016,41,Female,New York County (Manhattan),NA,White,Not Hispanic
+1888,1/23/2016,53,Male,Queens County (Queens),No,Asian,Not Hispanic
+1889,12/23/2016,26,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1890,12/20/2016,47,Female,Queens County (Queens),No,Asian,Not Hispanic
+1891,1/14/2016,61,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1892,6/28/2016,22,Female,Queens County (Queens),No,Other,Hispanic
+1893,2/29/2016,24,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1894,2/5/2016,66,Male,Queens County (Queens),No,Asian,Not Hispanic
+1895,9/17/2016,21,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1896,2/20/2016,30,Female,Queens County (Queens),No,White,Hispanic
+1897,11/12/2016,53,Male,Queens County (Queens),No,Asian,Not Hispanic
+1898,12/5/2016,6,Female,Queens County (Queens),No,Asian,Not Hispanic
+1899,6/5/2016,31,Female,Queens County (Queens),No,Other,Hispanic
+1900,8/1/2016,11,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+1901,11/28/2016,14,Female,Queens County (Queens),No,White,Hispanic
+1902,5/21/2016,42,Male,Queens County (Queens),No,Asian,Not Hispanic
+1903,5/21/2016,32,Male,New York County (Manhattan),No,Other,Not Hispanic
+1904,2/24/2016,51,Female,Bronx County (Bronx),No,American Indian or Alaskan Native,Hispanic
+1905,2/1/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+1906,7/10/2016,55,Male,Kings County (Brooklyn),No,White,Hispanic
+1907,8/29/2016,38,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+1908,10/2/2016,51,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+1909,12/9/2016,56,Female,Richmond County (Staten Island),NA,Asian,Not Hispanic
+1910,1/4/2016,16,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+1911,11/9/2016,24,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1912,9/1/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+1913,3/14/2016,44,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1914,5/28/2016,41,Male,Bronx County (Bronx),NA,Black or African American,Hispanic
+1915,6/8/2016,46,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+1916,3/23/2016,43,Male,Queens County (Queens),No,Other,Hispanic
+1917,9/16/2016,57,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1918,12/13/2016,38,Female,Queens County (Queens),No,Asian,Not Hispanic
+1919,5/7/2016,11,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1920,12/14/2016,13,Female,Broward County,NA,Asian,Not Hispanic
+1921,7/27/2016,42,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1922,10/11/2016,35,Female,Queens County (Queens),No,Asian,Not Hispanic
+1923,1/28/2016,51,NA,Queens County (Queens),NA,Asian,Not Hispanic
+1924,1/4/2016,25,Male,New York County (Manhattan),No,White,Hispanic
+1925,9/7/2016,18,Male,Queens County (Queens),No,Asian,Not Hispanic
+1926,1/28/2016,32,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1927,3/20/2016,59,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1928,12/13/2016,39,Male,Queens County (Queens),No,Asian,Not Hispanic
+1929,8/3/2016,58,Female,Richmond County (Staten Island),No,Asian,Not Hispanic
+1930,1/15/2016,35,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+1931,3/26/2016,47,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1932,8/22/2016,30,Male,Queens County (Queens),No,Asian,Not Hispanic
+1933,9/7/2016,21,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+1934,9/28/2016,25,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1935,11/12/2016,44,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+1936,12/24/2016,31,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1937,10/31/2016,25,Male,Queens County (Queens),NA,Asian,Not Hispanic
+1938,3/6/2016,6,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1939,4/9/2016,16,Female,Kings County (Brooklyn),No,White,Not Hispanic
+1940,12/3/2016,5,Male,Queens County (Queens),No,White,Hispanic
+1941,4/8/2016,55,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1942,12/1/2016,33,Male,New York County (Manhattan),NA,White,Not Hispanic
+1943,12/3/2016,54,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1944,2/26/2016,43,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1945,5/24/2016,17,Female,Kings County (Brooklyn),NA,Asian,Not Hispanic
+1946,4/23/2016,29,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1947,2/25/2016,44,Female,Queens County (Queens),No,Asian,Not Hispanic
+1948,11/4/2016,67,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1949,10/22/2016,46,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+1950,8/9/2016,41,Female,Queens County (Queens),No,White,Hispanic
+1951,2/18/2016,36,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1952,6/4/2016,30,Male,Bronx County (Bronx),No,White,Not Hispanic
+1953,7/20/2016,63,Male,Queens County (Queens),No,Asian,Not Hispanic
+1954,12/15/2016,22,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1955,12/25/2016,7,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1956,5/30/2016,7,Male,New York County (Manhattan),No,Other,Hispanic
+1957,4/15/2016,30,Male,Queens County (Queens),No,Asian,Not Hispanic
+1958,8/16/2016,61,Male,Queens County (Queens),No,Asian,Not Hispanic
+1959,1/4/2016,40,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1960,4/16/2016,53,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+1961,4/6/2016,29,Male,New York County (Manhattan),No,Asian,Not Hispanic
+1962,12/20/2016,52,Male,Queens County (Queens),No,Asian,Not Hispanic
+1963,12/1/2016,46,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+1964,3/13/2016,5,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+1965,3/8/2016,21,Male,Queens County (Queens),No,Asian,Not Hispanic
+1966,10/19/2016,33,Female,New York County (Manhattan),No,Asian,Not Hispanic
+1967,12/29/2016,29,NA,Westchester County,No,White,Hispanic
+1968,2/4/2016,6,Female,Queens County (Queens),No,Asian,Not Hispanic
+1969,6/23/2016,60,Male,Queens County (Queens),No,Asian,Not Hispanic
+1970,2/13/2016,56,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1971,7/15/2016,14,Male,Queens County (Queens),NA,Other,Hispanic
+1972,9/6/2016,23,Male,Queens County (Queens),No,Asian,Not Hispanic
+1973,4/2/2016,50,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+1974,9/4/2016,27,Male,Queens County (Queens),NA,Asian,Not Hispanic
+1975,11/23/2016,12,Male,Richmond County (Staten Island),NA,Asian,Not Hispanic
+1976,9/11/2016,57,Male,Kings County (Brooklyn),No,White,Not Hispanic
+1977,6/15/2016,65,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+1978,6/4/2016,53,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+1979,2/23/2016,21,Female,Queens County (Queens),No,Asian,Not Hispanic
+1980,1/16/2016,21,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1981,9/12/2016,65,Male,Queens County (Queens),No,Asian,Not Hispanic
+1982,9/22/2016,33,Male,New York County (Manhattan),No,Other,Not Hispanic
+1983,1/20/2016,25,Female,New York County (Manhattan),No,White,Hispanic
+1984,6/29/2016,29,Male,Richmond County (Staten Island),No,Other,Hispanic
+1985,3/14/2016,43,Female,New York County (Manhattan),No,Asian,Hispanic
+1986,6/25/2016,65,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+1987,11/19/2016,57,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1988,5/10/2016,41,Female,Queens County (Queens),No,Asian,Not Hispanic
+1989,1/21/2016,68,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+1990,9/22/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+1991,8/10/2016,30,Female,New York County (Manhattan),Yes,Other,Hispanic
+1992,9/16/2016,46,Female,Queens County (Queens),No,Asian,Not Hispanic
+1993,8/23/2016,62,Female,Queens County (Queens),No,White,Hispanic
+1994,11/19/2016,67,Male,Queens County (Queens),No,Asian,Not Hispanic
+1995,8/18/2016,66,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1996,3/31/2016,22,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+1997,9/6/2016,32,Female,Queens County (Queens),No,Asian,Not Hispanic
+1998,6/3/2016,54,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+1999,3/13/2016,32,Male,Queens County (Queens),No,Asian,Not Hispanic
+2000,2/6/2016,6,Male,Queens County (Queens),No,Asian,Not Hispanic
+2001,3/1/2016,64,Male,Queens County (Queens),No,Asian,Not Hispanic
+2002,6/23/2016,28,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2003,4/30/2016,52,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2004,9/25/2016,50,Male,Queens County (Queens),NA,White,Not Hispanic
+2005,3/2/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2006,2/16/2016,22,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+2007,1/4/2016,17,Male,Queens County (Queens),No,Asian,Not Hispanic
+2008,11/11/2016,58,Male,Kings County (Brooklyn),No,Other,Hispanic
+2009,1/19/2016,31,Male,Queens County (Queens),No,Asian,Not Hispanic
+2010,7/30/2016,28,Female,New York County (Manhattan),No,White,Not Hispanic
+2011,12/18/2016,37,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2012,12/17/2016,20,Male,Kings County (Brooklyn),NA,Other,Hispanic
+2013,3/20/2016,49,Female,Queens County (Queens),No,White,Hispanic
+2014,10/22/2016,66,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2015,8/28/2016,18,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2016,12/28/2016,11,Male,Queens County (Queens),No,White,Not Hispanic
+2017,7/29/2016,8,Male,Kings County (Brooklyn),NA,"Asian, White",Not Hispanic
+2018,4/19/2016,31,Male,New York County (Manhattan),No,White,Not Hispanic
+2019,8/3/2016,25,NA,Bronx County (Bronx),NA,Unknown,Hispanic
+2020,11/26/2016,29,Female,Bronx County (Bronx),No,White,Hispanic
+2021,5/25/2016,53,Female,Queens County (Queens),No,White,Not Hispanic
+2022,2/24/2016,34,Female,Queens County (Queens),No,Asian,Not Hispanic
+2023,11/28/2016,65,Male,Queens County (Queens),No,Asian,Not Hispanic
+2024,5/21/2016,41,Male,Queens County (Queens),No,Asian,Not Hispanic
+2025,7/28/2016,27,Male,Queens County (Queens),No,Asian,Not Hispanic
+2026,12/21/2016,53,Female,Queens County (Queens),No,Other,Not Hispanic
+2027,2/22/2016,32,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2028,2/16/2016,54,Female,Queens County (Queens),No,Other,Not Hispanic
+2029,8/19/2016,34,Female,Queens County (Queens),No,Asian,Not Hispanic
+2030,10/15/2016,66,Male,Queens County (Queens),No,Asian,Not Hispanic
+2031,11/15/2016,23,Male,Bronx County (Bronx),No,Other,Hispanic
+2032,8/9/2016,44,Male,Bronx County (Bronx),No,Other,Hispanic
+2033,6/27/2016,17,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2034,4/25/2016,40,Male,Queens County (Queens),No,Asian,Not Hispanic
+2035,10/18/2016,58,Male,Queens County (Queens),No,Other,Hispanic
+2036,8/27/2016,23,Male,Bronx County (Bronx),NA,White,Not Hispanic
+2037,1/15/2016,43,Male,New York County (Manhattan),No,White,Hispanic
+2038,2/25/2016,70,Female,Queens County (Queens),No,Other,Not Hispanic
+2039,5/29/2016,69,Female,Kings County (Brooklyn),No,White,Not Hispanic
+2040,4/18/2016,62,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2041,5/2/2016,9,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+2042,10/3/2016,69,Male,Bronx County (Bronx),No,White,Hispanic
+2043,11/10/2016,37,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+2044,7/10/2016,25,Male,Queens County (Queens),No,Asian,Not Hispanic
+2045,2/27/2016,66,Female,Kings County (Brooklyn),Yes,Black or African American,Not Hispanic
+2046,11/3/2016,34,Female,New York County (Manhattan),NA,White,Not Hispanic
+2047,9/25/2016,5,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2048,12/10/2016,38,Male,Queens County (Queens),No,White,Hispanic
+2049,6/4/2016,57,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+2050,11/27/2016,12,Female,Kings County (Brooklyn),No,White,Not Hispanic
+2051,2/7/2016,51,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+2052,2/22/2016,63,Female,Queens County (Queens),No,Other,Hispanic
+2053,1/12/2016,10,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2054,4/30/2016,17,Male,Queens County (Queens),No,Asian,Not Hispanic
+2055,11/1/2016,35,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2056,5/15/2016,6,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2057,7/1/2016,14,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2058,10/17/2016,56,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2059,12/23/2016,39,Female,New York County (Manhattan),No,White,Not Hispanic
+2060,11/7/2016,70,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2061,9/20/2016,28,Female,Queens County (Queens),No,Asian,Not Hispanic
+2062,6/13/2016,29,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+2063,7/2/2016,51,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2064,11/21/2016,50,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+2065,7/4/2016,61,Male,New York County (Manhattan),NA,Other,Hispanic
+2066,5/29/2016,33,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2067,8/1/2016,61,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+2068,6/26/2016,5,Male,Bronx County (Bronx),No,White,Hispanic
+2069,9/28/2016,5,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2070,5/6/2016,17,Male,Queens County (Queens),No,Asian,Not Hispanic
+2071,3/30/2016,27,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2072,11/27/2016,16,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2073,7/3/2016,17,Male,Queens County (Queens),No,Asian,Not Hispanic
+2074,4/26/2016,49,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2075,12/4/2016,54,Male,Queens County (Queens),No,White,Hispanic
+2076,7/14/2016,65,Female,Queens County (Queens),NA,White,Unknown
+2077,7/31/2016,12,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2078,8/19/2016,41,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+2079,11/21/2016,24,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2080,10/18/2016,65,Male,Queens County (Queens),No,Asian,Not Hispanic
+2081,4/7/2016,20,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2082,6/23/2016,12,Female,Queens County (Queens),No,White,Hispanic
+2083,6/17/2016,35,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2084,6/29/2016,8,Male,Kings County (Brooklyn),No,White,Not Hispanic
+2085,3/26/2016,31,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2086,8/10/2016,48,Female,Queens County (Queens),No,White,Not Hispanic
+2087,8/27/2016,7,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2088,1/19/2016,51,Male,Queens County (Queens),No,White,Not Hispanic
+2089,5/13/2016,40,Female,Kings County (Brooklyn),No,White,Hispanic
+2090,11/5/2016,64,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2091,4/23/2016,6,Female,Queens County (Queens),No,Other,Not Hispanic
+2092,10/8/2016,19,Male,Queens County (Queens),No,Asian,Not Hispanic
+2093,2/14/2016,67,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2094,8/7/2016,12,Male,Queens County (Queens),No,Asian,Not Hispanic
+2095,11/18/2016,34,Male,Queens County (Queens),No,Asian,Not Hispanic
+2096,10/19/2016,65,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+2097,3/1/2016,11,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2098,10/28/2016,42,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2099,1/27/2016,15,Female,Queens County (Queens),No,Asian,Not Hispanic
+2100,2/23/2016,25,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2101,4/17/2016,24,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+2102,1/14/2016,44,Male,New York County (Manhattan),NA,Asian,Not Hispanic
+2103,8/24/2016,40,Male,Bronx County (Bronx),No,White,Hispanic
+2104,5/13/2016,20,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2105,2/3/2016,69,Female,Kings County (Brooklyn),No,White,Hispanic
+2106,8/17/2016,32,Female,Queens County (Queens),No,Asian,Not Hispanic
+2107,5/29/2016,37,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2108,4/20/2016,69,Male,Bronx County (Bronx),No,Other,Not Hispanic
+2109,6/1/2016,51,Female,Kings County (Brooklyn),No,White,Hispanic
+2110,12/18/2016,65,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2111,12/2/2016,5,Male,Queens County (Queens),No,Asian,Not Hispanic
+2112,4/6/2016,18,Male,Queens County (Queens),No,Asian,Not Hispanic
+2113,10/19/2016,6,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2114,5/20/2016,36,Female,Queens County (Queens),No,Asian,Not Hispanic
+2115,3/13/2016,23,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2116,1/9/2016,67,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+2117,7/21/2016,69,Female,Queens County (Queens),No,Asian,Not Hispanic
+2118,7/29/2016,62,Male,Kings County (Brooklyn),NA,White,Hispanic
+2119,10/1/2016,11,Male,New York County (Manhattan),No,White,Hispanic
+2120,1/16/2016,37,Male,Queens County (Queens),No,Asian,Not Hispanic
+2121,6/7/2016,51,Male,Queens County (Queens),No,Asian,Not Hispanic
+2122,4/12/2016,16,Male,Queens County (Queens),No,Asian,Not Hispanic
+2123,4/24/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+2124,12/31/2016,14,Male,Queens County (Queens),No,Asian,Not Hispanic
+2125,3/15/2016,48,Male,Queens County (Queens),No,White,Hispanic
+2126,4/12/2016,32,Male,Bronx County (Bronx),No,White,Hispanic
+2127,3/29/2016,48,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2128,3/25/2016,67,Male,Queens County (Queens),NA,White,Not Hispanic
+2129,4/22/2016,70,Female,Queens County (Queens),NA,Black or African American,Hispanic
+2130,7/17/2016,63,Female,Bronx County (Bronx),No,Other,Hispanic
+2131,7/15/2016,66,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2132,3/4/2016,13,Female,Queens County (Queens),No,Asian,Not Hispanic
+2133,2/11/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+2134,5/4/2016,18,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2135,3/27/2016,66,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2136,6/2/2016,11,Female,Queens County (Queens),No,Other,Hispanic
+2137,2/20/2016,57,Male,Queens County (Queens),NA,Asian,Not Hispanic
+2138,3/29/2016,15,Male,Bronx County (Bronx),No,Other,Hispanic
+2139,1/6/2016,27,Male,Kings County (Brooklyn),NA,"Black or African American, White",Not Hispanic
+2140,10/26/2016,19,Male,Queens County (Queens),No,Asian,Not Hispanic
+2141,9/18/2016,33,Male,Queens County (Queens),No,Unknown,Hispanic
+2142,2/2/2016,11,Female,Queens County (Queens),No,Asian,Not Hispanic
+2143,4/27/2016,33,Female,Kings County (Brooklyn),No,White,Not Hispanic
+2144,7/9/2016,63,Male,Queens County (Queens),No,"Asian, White",Not Hispanic
+2145,7/8/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+2146,7/15/2016,66,Female,Queens County (Queens),No,White,Not Hispanic
+2147,8/27/2016,48,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2148,11/8/2016,40,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2149,2/12/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+2150,12/31/2016,51,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2151,8/12/2016,49,Male,Richmond County (Staten Island),No,Other,Hispanic
+2152,5/21/2016,32,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2153,3/18/2016,54,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+2154,12/7/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+2155,9/27/2016,65,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2156,5/12/2016,17,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2157,3/20/2016,68,Male,Kings County (Brooklyn),No,White,Not Hispanic
+2158,1/11/2016,38,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2159,12/15/2016,45,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2160,8/14/2016,57,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+2161,3/14/2016,8,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+2162,9/8/2016,29,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2163,12/18/2016,27,Male,Queens County (Queens),No,Asian,Not Hispanic
+2164,11/13/2016,14,Female,Queens County (Queens),No,Asian,Not Hispanic
+2165,8/16/2016,62,Male,Queens County (Queens),No,White,Hispanic
+2166,5/12/2016,47,Male,Queens County (Queens),No,Other,Hispanic
+2167,5/17/2016,50,Male,Queens County (Queens),No,Asian,Not Hispanic
+2168,3/28/2016,57,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2169,5/22/2016,54,NA,NA,NA,NA,NA
+2170,12/26/2016,37,Male,Queens County (Queens),No,White,Not Hispanic
+2171,1/20/2016,23,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+2172,11/10/2016,64,Male,Bronx County (Bronx),NA,White,Not Hispanic
+2173,3/16/2016,67,Female,Queens County (Queens),No,Asian,Not Hispanic
+2174,10/10/2016,17,Female,Queens County (Queens),No,Asian,Not Hispanic
+2175,4/16/2016,29,Male,Queens County (Queens),No,Asian,Not Hispanic
+2176,9/27/2016,59,Male,Queens County (Queens),No,White,Hispanic
+2177,9/25/2016,22,Male,Bronx County (Bronx),No,Other,Hispanic
+2178,7/26/2016,24,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2179,10/31/2016,32,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2180,1/16/2016,44,Male,Queens County (Queens),No,White,Not Hispanic
+2181,1/14/2016,7,Male,Queens County (Queens),No,Asian,Not Hispanic
+2182,11/25/2016,53,Male,Queens County (Queens),No,Asian,Not Hispanic
+2183,3/12/2016,64,Female,Kings County (Brooklyn),NA,Other,Hispanic
+2184,12/20/2016,51,Female,Bronx County (Bronx),No,White,Hispanic
+2185,6/14/2016,67,Male,Queens County (Queens),NA,White,Not Hispanic
+2186,4/23/2016,31,Male,Bronx County (Bronx),Yes,White,Hispanic
+2187,9/4/2016,29,Female,Queens County (Queens),No,Asian,Not Hispanic
+2188,7/15/2016,34,Female,Queens County (Queens),No,Asian,Not Hispanic
+2189,2/2/2016,38,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2190,11/17/2016,67,NA,Kings County (Brooklyn),NA,White,Unknown
+2191,12/21/2016,22,Female,Queens County (Queens),No,Asian,Not Hispanic
+2192,9/12/2016,53,Male,New York County (Manhattan),Yes,Asian,Not Hispanic
+2193,12/11/2016,37,Male,New York County (Manhattan),No,Other,Not Hispanic
+2194,1/12/2016,49,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+2195,9/23/2016,58,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+2196,12/31/2016,59,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2197,5/20/2016,17,Male,Queens County (Queens),NA,White,Not Hispanic
+2198,2/10/2016,57,Female,Kings County (Brooklyn),No,White,Not Hispanic
+2199,12/25/2016,49,Male,New York County (Manhattan),NA,White,Not Hispanic
+2200,3/25/2016,8,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2201,8/3/2016,8,Male,Queens County (Queens),No,Asian,Not Hispanic
+2202,10/24/2016,25,Female,Kings County (Brooklyn),NA,Asian,Not Hispanic
+2203,6/7/2016,44,Female,Bronx County (Bronx),No,"Asian, White",Not Hispanic
+2204,4/8/2016,11,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2205,6/19/2016,69,Male,Richmond County (Staten Island),No,Asian,Not Hispanic
+2206,7/19/2016,51,Male,Kings County (Brooklyn),NA,White,Hispanic
+2207,10/2/2016,46,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+2208,3/21/2016,27,Female,Kings County (Brooklyn),No,Other,Hispanic
+2209,8/6/2016,30,Male,Queens County (Queens),NA,White,Not Hispanic
+2210,3/30/2016,54,Male,Queens County (Queens),No,White,Not Hispanic
+2211,3/14/2016,27,Male,Kings County (Brooklyn),No,White,Not Hispanic
+2212,8/8/2016,34,Male,Kings County (Brooklyn),NA,"Black or African American, White",Not Hispanic
+2213,9/8/2016,43,Male,Queens County (Queens),No,Asian,Not Hispanic
+2214,11/25/2016,16,Male,Queens County (Queens),No,"American Indian or Alaskan Native, Asian",Not Hispanic
+2215,1/14/2016,65,Male,Kings County (Brooklyn),No,White,Not Hispanic
+2216,4/11/2016,33,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2217,10/13/2016,65,Female,Queens County (Queens),No,Asian,Not Hispanic
+2218,7/22/2016,68,Female,Bronx County (Bronx),No,White,Hispanic
+2219,10/29/2016,11,Male,Kings County (Brooklyn),No,"Asian, Other",Not Hispanic
+2220,2/7/2016,57,Male,Queens County (Queens),No,Asian,Not Hispanic
+2221,2/18/2016,65,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2222,7/11/2016,43,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2223,12/23/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+2224,1/17/2016,45,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2225,9/15/2016,39,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2226,12/27/2016,50,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+2227,5/12/2016,32,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+2228,3/18/2016,11,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2229,5/25/2016,61,Male,Bronx County (Bronx),NA,Asian,Not Hispanic
+2230,8/4/2016,17,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+2231,5/28/2016,66,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2232,2/22/2016,18,Male,Queens County (Queens),No,Asian,Not Hispanic
+2233,3/24/2016,5,Female,Bronx County (Bronx),NA,White,Hispanic
+2234,11/3/2016,48,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2235,1/11/2016,63,Male,Queens County (Queens),No,Asian,Not Hispanic
+2236,2/12/2016,47,Female,Kings County (Brooklyn),No,Other,Hispanic
+2237,6/18/2016,27,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+2238,8/6/2016,7,Female,Bronx County (Bronx),No,White,Hispanic
+2239,3/28/2016,39,Female,Queens County (Queens),No,White,Hispanic
+2240,7/4/2016,65,Female,Queens County (Queens),No,White,Not Hispanic
+2241,11/24/2016,52,Female,Queens County (Queens),No,Asian,Not Hispanic
+2242,10/18/2016,37,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2243,10/6/2016,26,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+2244,7/3/2016,39,Male,Queens County (Queens),No,Asian,Not Hispanic
+2245,1/22/2016,39,Female,Queens County (Queens),No,Asian,Not Hispanic
+2246,2/28/2016,10,Female,Queens County (Queens),No,Asian,Not Hispanic
+2247,7/26/2016,33,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+2248,12/9/2016,40,Female,Queens County (Queens),No,Other,Hispanic
+2249,1/17/2016,48,Male,Queens County (Queens),No,Other,Hispanic
+2250,6/11/2016,49,Female,Queens County (Queens),No,Asian,Not Hispanic
+2251,10/10/2016,49,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+2252,6/13/2016,29,Male,Queens County (Queens),No,White,Hispanic
+2253,7/10/2016,43,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2254,10/1/2016,65,Male,Bronx County (Bronx),No,White,Hispanic
+2255,3/14/2016,34,Female,Queens County (Queens),No,White,Not Hispanic
+2256,8/26/2016,68,Male,Queens County (Queens),No,Asian,Not Hispanic
+2257,3/25/2016,58,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2258,4/28/2016,29,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+2259,8/10/2016,42,Male,New York County (Manhattan),NA,White,Hispanic
+2260,5/11/2016,22,Male,Bronx County (Bronx),No,White,Not Hispanic
+2261,8/23/2016,48,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+2262,6/13/2016,33,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+2263,1/18/2016,33,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+2264,11/23/2016,30,Male,Bronx County (Bronx),No,White,Hispanic
+2265,7/28/2016,11,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2266,7/1/2016,47,Male,Queens County (Queens),No,Asian,Not Hispanic
+2267,7/17/2016,46,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2268,10/11/2016,32,NA,NA,NA,NA,NA
+2269,12/12/2016,44,Female,Queens County (Queens),No,Asian,Not Hispanic
+2270,5/2/2016,28,Male,Kings County (Brooklyn),NA,Black or African American,Unknown
+2271,7/24/2016,29,Male,Queens County (Queens),No,Asian,Not Hispanic
+2272,6/9/2016,44,Female,Queens County (Queens),No,White,Hispanic
+2273,1/8/2016,14,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2274,5/29/2016,48,Female,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2275,11/29/2016,29,Female,Queens County (Queens),No,Asian,Not Hispanic
+2276,3/26/2016,15,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2277,3/15/2016,50,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2278,7/18/2016,67,Male,Queens County (Queens),No,Other,Hispanic
+2279,6/5/2016,20,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2280,3/23/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+2281,6/8/2016,54,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2282,6/16/2016,12,Female,Queens County (Queens),No,White,Not Hispanic
+2283,8/10/2016,15,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2284,3/15/2016,48,Male,Queens County (Queens),No,Asian,Not Hispanic
+2285,1/31/2016,36,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2286,5/8/2016,18,Female,Kings County (Brooklyn),No,Other,Hispanic
+2287,4/10/2016,15,Male,Bronx County (Bronx),No,Asian,Hispanic
+2288,2/9/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+2289,7/11/2016,46,Male,Kings County (Brooklyn),No,White,Not Hispanic
+2290,4/30/2016,57,Male,Queens County (Queens),No,Other,Hispanic
+2291,10/24/2016,27,Female,Queens County (Queens),No,Asian,Not Hispanic
+2292,10/6/2016,70,Female,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2293,7/22/2016,49,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+2294,2/14/2016,40,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2295,3/11/2016,5,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+2296,2/14/2016,35,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2297,1/29/2016,18,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+2298,5/14/2016,7,Female,Queens County (Queens),No,Asian,Not Hispanic
+2299,11/17/2016,38,Male,Queens County (Queens),No,Asian,Not Hispanic
+2300,2/7/2016,14,Male,Queens County (Queens),No,Asian,Not Hispanic
+2301,4/15/2016,20,Female,Queens County (Queens),No,"Asian, Other",Not Hispanic
+2302,2/8/2016,37,Female,Queens County (Queens),No,Asian,Not Hispanic
+2303,3/18/2016,54,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2304,12/15/2016,5,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2305,9/28/2016,21,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2306,9/2/2016,20,Male,Queens County (Queens),No,White,Hispanic
+2307,4/29/2016,24,Female,Queens County (Queens),No,White,Hispanic
+2308,8/10/2016,23,Female,Queens County (Queens),No,Asian,Not Hispanic
+2309,5/3/2016,8,Female,Queens County (Queens),No,Asian,Not Hispanic
+2310,5/19/2016,47,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2311,2/8/2016,64,Male,Queens County (Queens),No,White,Hispanic
+2312,7/18/2016,31,Male,New York County (Manhattan),NA,Other,Hispanic
+2313,11/24/2016,30,Female,Queens County (Queens),No,Asian,Not Hispanic
+2314,12/23/2016,60,Female,Kings County (Brooklyn),No,White,Hispanic
+2315,8/1/2016,68,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2316,11/19/2016,23,Female,Queens County (Queens),No,Asian,Not Hispanic
+2317,9/12/2016,10,Male,Queens County (Queens),No,Asian,Not Hispanic
+2318,4/18/2016,59,Male,Queens County (Queens),No,Asian,Not Hispanic
+2319,4/12/2016,57,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2320,3/26/2016,43,Male,New York County (Manhattan),NA,White,Not Hispanic
+2321,4/6/2016,53,Male,Bronx County (Bronx),No,White,Hispanic
+2322,11/4/2016,59,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2323,12/12/2016,24,Male,New York County (Manhattan),No,White,Not Hispanic
+2324,5/21/2016,36,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2325,7/21/2016,64,Male,Queens County (Queens),No,Asian,Not Hispanic
+2326,8/2/2016,55,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+2327,6/11/2016,45,Female,Queens County (Queens),No,Native Hawaiian or Pacific Islander,Not Hispanic
+2328,7/30/2016,10,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+2329,8/8/2016,24,Male,Queens County (Queens),No,Asian,Not Hispanic
+2330,5/17/2016,67,Male,Allegheny County,No,Asian,Not Hispanic
+2331,11/28/2016,51,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2332,5/15/2016,31,Male,Kings County (Brooklyn),No,"Asian, Black or African American",Not Hispanic
+2333,2/5/2016,13,Male,Queens County (Queens),No,Asian,Not Hispanic
+2334,5/13/2016,56,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+2335,9/12/2016,7,Male,Queens County (Queens),No,Unknown,Not Hispanic
+2336,2/5/2016,56,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2337,12/16/2016,17,Female,Kings County (Brooklyn),No,White,Hispanic
+2338,11/12/2016,24,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2339,2/5/2016,55,Female,Bronx County (Bronx),No,White,Hispanic
+2340,4/8/2016,65,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2341,12/9/2016,28,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2342,9/1/2016,43,Male,Kings County (Brooklyn),NA,White,Not Hispanic
+2343,9/24/2016,25,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2344,12/11/2016,58,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2345,12/30/2016,46,Male,Queens County (Queens),No,Black or African American,Hispanic
+2346,3/7/2016,55,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2347,12/18/2016,20,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2348,6/22/2016,54,Male,Queens County (Queens),No,White,Hispanic
+2349,4/11/2016,42,Male,Queens County (Queens),No,Other,Not Hispanic
+2350,12/16/2016,25,Female,Queens County (Queens),No,White,Hispanic
+2351,7/23/2016,16,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+2352,7/26/2016,12,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2353,11/28/2016,45,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+2354,2/22/2016,26,Male,New York County (Manhattan),No,White,Hispanic
+2355,5/26/2016,49,Female,Queens County (Queens),No,Asian,Not Hispanic
+2356,2/13/2016,51,Male,Queens County (Queens),No,Asian,Not Hispanic
+2357,11/20/2016,68,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+2358,3/17/2016,14,Female,Queens County (Queens),No,White,Not Hispanic
+2359,5/2/2016,35,Female,Queens County (Queens),NA,White,Not Hispanic
+2360,9/26/2016,59,Female,Kings County (Brooklyn),NA,White,Not Hispanic
+2361,12/2/2016,25,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2362,7/6/2016,45,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2363,10/22/2016,49,Male,Queens County (Queens),No,Asian,Not Hispanic
+2364,10/21/2016,21,Male,Queens County (Queens),No,White,Hispanic
+2365,8/15/2016,52,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2366,3/1/2016,43,Male,Queens County (Queens),No,Other,Not Hispanic
+2367,1/2/2016,46,Female,Queens County (Queens),No,White,Not Hispanic
+2368,1/9/2016,27,Male,New York County (Manhattan),No,White,Hispanic
+2369,9/9/2016,29,Female,Queens County (Queens),No,Asian,Not Hispanic
+2370,12/3/2016,49,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2371,11/8/2016,43,Female,Bronx County (Bronx),Yes,White,Hispanic
+2372,6/6/2016,36,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2373,3/2/2016,40,Female,Queens County (Queens),No,Asian,Not Hispanic
+2374,3/19/2016,43,Male,Queens County (Queens),No,White,Hispanic
+2375,1/2/2016,11,Male,Bronx County (Bronx),No,Black or African American,Not Hispanic
+2376,7/1/2016,40,Male,Kings County (Brooklyn),No,White,Not Hispanic
+2377,12/19/2016,7,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2378,12/21/2016,70,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2379,5/25/2016,69,Male,Queens County (Queens),No,Asian,Not Hispanic
+2380,1/12/2016,26,Male,Queens County (Queens),No,Asian,Not Hispanic
+2381,8/16/2016,47,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2382,1/22/2016,7,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2383,7/19/2016,17,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2384,9/9/2016,7,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2385,9/25/2016,52,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2386,11/22/2016,7,Female,Queens County (Queens),No,Other,Hispanic
+2387,1/5/2016,43,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+2388,10/26/2016,6,Male,Queens County (Queens),No,Black or African American,Hispanic
+2389,8/18/2016,12,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2390,6/28/2016,40,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2391,9/17/2016,51,Male,Queens County (Queens),No,Other,Hispanic
+2392,9/14/2016,54,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2393,12/26/2016,26,Female,Queens County (Queens),No,Asian,Not Hispanic
+2394,2/16/2016,33,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2395,7/31/2016,44,Male,Richmond County (Staten Island),NA,Black or African American,Unknown
+2396,2/10/2016,22,Female,Queens County (Queens),No,Asian,Not Hispanic
+2397,6/26/2016,65,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2398,12/7/2016,9,Female,Queens County (Queens),No,Asian,Not Hispanic
+2399,8/2/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+2400,2/3/2016,31,Female,Queens County (Queens),No,Asian,Not Hispanic
+2401,1/24/2016,68,Female,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2402,2/17/2016,29,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2403,12/23/2016,48,Female,Queens County (Queens),No,Asian,Not Hispanic
+2404,5/5/2016,16,Female,Kings County (Brooklyn),No,Other,Hispanic
+2405,7/23/2016,57,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+2406,3/18/2016,13,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+2407,5/28/2016,30,Male,Queens County (Queens),No,White,Hispanic
+2408,11/17/2016,31,Male,Bronx County (Bronx),No,Other,Hispanic
+2409,8/9/2016,63,Male,Bronx County (Bronx),No,Black or African American,Hispanic
+2410,6/7/2016,53,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2411,11/20/2016,64,Male,New York County (Manhattan),No,Black or African American,Hispanic
+2412,1/14/2016,55,Male,Bronx County (Bronx),No,White,Hispanic
+2413,11/7/2016,33,Female,Queens County (Queens),No,Asian,Not Hispanic
+2414,6/2/2016,54,Female,Queens County (Queens),NA,Black or African American,Not Hispanic
+2415,12/18/2016,6,Male,Queens County (Queens),No,Other,Hispanic
+2416,12/25/2016,59,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2417,7/28/2016,41,Female,Queens County (Queens),No,Asian,Not Hispanic
+2418,3/19/2016,36,Female,Kings County (Brooklyn),No,White,Not Hispanic
+2419,8/4/2016,60,Male,Queens County (Queens),No,Asian,Not Hispanic
+2420,12/22/2016,46,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2421,10/2/2016,26,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2422,10/28/2016,42,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+2423,5/4/2016,66,Male,Queens County (Queens),No,Asian,Not Hispanic
+2424,2/16/2016,6,Male,Kings County (Brooklyn),No,Asian,Hispanic
+2425,1/19/2016,47,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+2426,12/1/2016,8,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2427,5/28/2016,47,Male,Queens County (Queens),No,Asian,Not Hispanic
+2428,2/1/2016,13,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2429,9/25/2016,55,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+2430,5/30/2016,63,Male,Kings County (Brooklyn),No,Other,Hispanic
+2431,7/28/2016,47,Male,Queens County (Queens),No,Asian,Not Hispanic
+2432,11/4/2016,50,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2433,3/5/2016,53,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2434,9/3/2016,19,Male,New York County (Manhattan),NA,White,NA
+2435,2/13/2016,18,Male,Queens County (Queens),No,Asian,Not Hispanic
+2436,1/1/2016,52,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2437,12/11/2016,28,Male,Queens County (Queens),No,Asian,Not Hispanic
+2438,4/28/2016,53,Male,Queens County (Queens),No,White,Hispanic
+2439,9/16/2016,29,Female,Queens County (Queens),No,Asian,Not Hispanic
+2440,11/29/2016,63,Female,Kings County (Brooklyn),NA,Asian,Not Hispanic
+2441,11/3/2016,69,Male,Queens County (Queens),No,Black or African American,Not Hispanic
+2442,2/27/2016,57,Male,Queens County (Queens),No,Asian,Not Hispanic
+2443,3/28/2016,59,Male,Queens County (Queens),No,White,Hispanic
+2444,3/26/2016,34,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2445,3/3/2016,12,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2446,6/19/2016,6,Female,Bronx County (Bronx),No,White,Hispanic
+2447,10/6/2016,20,Male,Queens County (Queens),No,Asian,Not Hispanic
+2448,1/7/2016,13,Male,Queens County (Queens),No,"Asian, Other",Not Hispanic
+2449,4/23/2016,63,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2450,3/17/2016,59,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2451,6/5/2016,6,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2452,2/20/2016,49,Male,Bronx County (Bronx),No,White,Hispanic
+2453,11/7/2016,42,Female,Queens County (Queens),NA,Other,Hispanic
+2454,11/15/2016,59,Female,Kings County (Brooklyn),No,White,Hispanic
+2455,1/20/2016,64,Male,Bronx County (Bronx),No,Asian,Not Hispanic
+2456,8/31/2016,7,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2457,3/1/2016,28,Male,Queens County (Queens),No,White,Hispanic
+2458,8/28/2016,61,Male,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2459,5/3/2016,68,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2460,6/12/2016,37,Female,New York County (Manhattan),No,Asian,Not Hispanic
+2461,2/4/2016,39,Male,Queens County (Queens),No,Asian,Not Hispanic
+2462,9/3/2016,29,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2463,8/15/2016,5,Female,New York County (Manhattan),No,White,Not Hispanic
+2464,6/26/2016,20,Male,Queens County (Queens),No,White,Hispanic
+2465,6/20/2016,13,Male,Queens County (Queens),No,"Black or African American, White",Not Hispanic
+2466,3/11/2016,58,Male,Queens County (Queens),No,Asian,Not Hispanic
+2467,10/22/2016,50,Female,Queens County (Queens),No,Asian,Not Hispanic
+2468,6/10/2016,10,Female,Queens County (Queens),No,Asian,Not Hispanic
+2469,8/14/2016,9,Male,NA,No,Asian,Not Hispanic
+2470,4/24/2016,25,Male,Queens County (Queens),No,Asian,Not Hispanic
+2471,3/25/2016,55,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2472,2/13/2016,34,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2473,3/1/2016,17,Male,Queens County (Queens),No,Asian,Not Hispanic
+2474,6/15/2016,41,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2475,11/26/2016,7,Female,Queens County (Queens),No,Asian,Not Hispanic
+2476,12/4/2016,7,Female,Bronx County (Bronx),No,Black or African American,Hispanic
+2477,11/13/2016,40,Male,New York County (Manhattan),No,White,Hispanic
+2478,11/7/2016,36,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+2479,2/22/2016,44,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2480,12/18/2016,58,Male,New York County (Manhattan),No,Asian,Not Hispanic
+2481,6/29/2016,40,Male,Kings County (Brooklyn),NA,Other,Hispanic
+2482,7/12/2016,43,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2483,6/7/2016,16,Male,Queens County (Queens),No,Asian,Not Hispanic
+2484,2/3/2016,9,Female,New York County (Manhattan),No,White,Hispanic
+2485,6/21/2016,46,Male,Queens County (Queens),No,Asian,Not Hispanic
+2486,12/9/2016,69,Female,New York County (Manhattan),No,White,Hispanic
+2487,2/26/2016,34,Male,Kings County (Brooklyn),NA,Black or African American,Not Hispanic
+2488,7/25/2016,41,Male,New York County (Manhattan),No,Black or African American,Not Hispanic
+2489,6/20/2016,5,Male,Queens County (Queens),No,White,Hispanic
+2490,9/7/2016,8,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2491,12/27/2016,36,Male,Queens County (Queens),No,Asian,Not Hispanic
+2492,8/19/2016,45,Female,New York County (Manhattan),No,Other,Hispanic
+2493,8/12/2016,56,Male,Bronx County (Bronx),No,White,Hispanic
+2494,10/11/2016,57,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2495,12/1/2016,23,Male,Queens County (Queens),No,Asian,Not Hispanic
+2496,12/24/2016,19,Male,Queens County (Queens),No,Asian,Not Hispanic
+2497,12/20/2016,19,Female,Queens County (Queens),No,Asian,Not Hispanic
+2498,1/11/2016,32,Male,Bronx County (Bronx),No,White,Hispanic
+2499,11/8/2016,15,Male,Bronx County (Bronx),NA,Black or African American,Not Hispanic
+2500,4/25/2016,48,Female,Bronx County (Bronx),No,Asian,Not Hispanic
+2501,3/30/2016,16,Male,Bronx County (Bronx),No,White,Hispanic
+2502,3/26/2016,31,Female,Kings County (Brooklyn),No,Other,Hispanic
+2503,11/9/2016,23,Male,Richmond County (Staten Island),NA,Black or African American,Not Hispanic
+2504,4/25/2016,14,Male,Kings County (Brooklyn),NA,Asian,Not Hispanic
+2505,12/9/2016,51,Male,Queens County (Queens),NA,Black or African American,Not Hispanic
+2506,6/14/2016,37,Female,Bronx County (Bronx),No,Other,Hispanic
+2507,12/27/2016,28,Male,Kings County (Brooklyn),No,Black or African American,Hispanic
+2508,8/16/2016,66,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2509,1/26/2016,9,Male,Richmond County (Staten Island),No,White,Not Hispanic
+2510,10/21/2016,33,Male,Queens County (Queens),No,Asian,Not Hispanic
+2511,9/6/2016,16,Female,New York County (Manhattan),NA,Black or African American,Not Hispanic
+2512,9/16/2016,50,Female,Queens County (Queens),No,Asian,Not Hispanic
+2513,6/20/2016,63,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2514,10/23/2016,49,Female,New York County (Manhattan),No,Black or African American,Not Hispanic
+2515,3/2/2016,32,Male,Richmond County (Staten Island),No,White,Not Hispanic
+2516,3/14/2016,34,Female,Queens County (Queens),No,Asian,Not Hispanic
+2517,11/16/2016,9,Female,Kings County (Brooklyn),No,Other,Not Hispanic
+2518,2/19/2016,63,Female,Queens County (Queens),No,Other,Hispanic
+2519,10/18/2016,54,Male,Queens County (Queens),No,Other,Hispanic
+2520,12/4/2016,43,Female,Queens County (Queens),No,Asian,Not Hispanic
+2521,6/26/2016,50,Male,Queens County (Queens),No,Asian,Not Hispanic
+2522,12/2/2016,61,Female,Kings County (Brooklyn),No,Black or African American,Not Hispanic
+2523,1/14/2016,52,Female,Kings County (Brooklyn),No,Asian,Not Hispanic
+2524,1/1/2016,27,Male,Bronx County (Bronx),No,Other,Hispanic
+2525,4/11/2016,28,Male,New York County (Manhattan),NA,Black or African American,Not Hispanic
+2526,8/5/2016,37,Male,Kings County (Brooklyn),No,Asian,Not Hispanic
+2527,9/23/2016,29,Female,Queens County (Queens),No,Black or African American,Not Hispanic
+2528,8/3/2016,68,Male,Queens County (Queens),No,Asian,Not Hispanic
+2529,12/9/2016,21,Male,Queens County (Queens),No,Asian,Not Hispanic
+2530,2/3/2016,12,Female,New York County (Manhattan),No,"Asian, White",Not Hispanic

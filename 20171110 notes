@@ -1,0 +1,15 @@
+things I want in my github:
+-learning folder with my learning code and page with notes 
+
+questions:
+1. what do you call it when you do function(filename:str
+
+2. can you explain the dict structure of the below? if i have just one value per key, how would i write my dict?
+3. for the below, is it always good practice to incude if __name__ == '__main__' to establish that you are in the general scope? (is this correct?)
+if __name__ == '__main__':
+column_lookup = {
+    'ds-credit': 'CustomerID CheckingAccountBalance DebtsPaid SavingsAccountBalance CurrentOpenLoanApplications'.split(),
+    'ds-app': 'CustomerID LoanPayoffPeriodInMonths LoanReason RequestedAmount InterestRate Co-Applicant'.split(),
+    'ds-borrower': 'CustomerID YearsAtCurrentEmployer YearsInCurrentResidence Age RentOrOwnHome TypeOfCurrentEmployment NumberOfDependantsIncludingSelf'.split(),
+    'ds-result': 'CustomerID WasTheLoanApproved'.split()
+})

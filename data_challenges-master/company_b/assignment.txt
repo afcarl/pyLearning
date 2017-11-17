@@ -1,0 +1,34 @@
+Please do not share the challenge, or collaborate with others. We look for good coding practices, scoping skills, application of a variety of techniques, clarity, brevity, and a healthy dose of curiosity.
+ 
+Submission instructions:
+
+Submissions should be in a Jupyter Notebook with any analysis or commentary inline in Markdown cells. Python strongly encouraged. 
+
+Review of your submission should not require running the notebook; however, we should be able to run your submission smoothly without errors.
+
+Upload your submission to a SECRET Github Gist, including any supporting files. 
+Submit the secret gist link to the link provided at the end of these instructions when you are done with the test
+
+Although the amount of time you invest is up to you, we do not expect you to put more than 4 hours worth of work into the test. Please do not hesitate to contact us if any of the above instructions are unclear, or if you'd like to discuss any of the test components in greater detail.
+
+B Data Science Challenge
+ 
+For this exercise you will be working with the H­1B visa application data ( https://public.B.com/datasets/h-1-b-visa-applications-2014/e1054732-9f56-4c5c-883f-5473f3a2d3d8 ), one of the most popular datasets in B. All questions refer to the 2014 data. Please include your code along with your answers.
+ 
+Section 1: Warm Up (1/4)
+1. Which companies applied for the largest number of H­1B visas where the job opening was located in NYC? Please describe any issues you may encounter summarizing the data by employer name.
+ 
+2. Calculate the mean and standard deviation of wages proposed for workers located in New York City and Mountain View. Are the average wages in these two locations statistically different? What factors could explain the results?
+ 
+3. For NYC, what is the relationship between the total number of H­1B visas requested by an employer and the average wages proposed? Visually represent this relationship if appropriate. Is the relationship statistically significant? What might explain this relationship?
+ 
+Section 2: Brainstorming (1/4)
+What interesting questions might this dataset address? Brainstorm a handful of interesting questions, and scope them. Describe steps, methodology, and level of effort that would be required to answer each
+question. Additional, enriching, datasets are allowed, but not required.
+ 
+Section 3: Exploration (1/2)
+Choose a question to answer from your brainstorming section. We encourage you to use this section to demonstrate some of your strengths and abilities in data science (given the short timeframe for the test.
+Please include:
+1. One page (or less) of descriptive text (potentially with figures)
+2. Your code
+Please submit here: https://app.greenhouse.io/tests/6eefda295954ac9c0afcc7c4865cc3a6

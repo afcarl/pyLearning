@@ -1,0 +1,6 @@
+# Data Cleaning
+
+The first task I embarked on was cleaning the data.  In order to do this, I moved the tsv files into a directory called data_understanding.  I then converted the tsv files to dataframes in `convert_to_csv.py`.  One of the interesting things I discovered is that the `CustomerID`s, found in all four tsv files, were not completely the same.  In order to better understand these `CustomerID`s and their value ranges throughout the tsv files, I created `understanding_customer_ids`.  
+
+
+

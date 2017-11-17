@@ -1,0 +1,38 @@
+Company A
+============================
+Welcome to your challenge project!
+
+For this challenge, we ask that you implement a solution at home in your own time. Please send us your code and results within a week. If you need more time, let us know. 
+
+Motivation
+----------
+
+A builds state of the art Natural Language Processing and Machine Learning tools that empower human customer service representatives to become 10X more efficient than they are today. Before we can build tools to solve a given customer service problem, we need to thoroughly understand it. 
+
+Your challenge is to gain an understanding of a small loan-application dataset so that we can double-check the work of agents making quick-fire loan determinations by text.
+
+
+Goals
+-----
+
+1. Data Understanding
+
+    · Convert the data-set into whatever format makes the most sense to you.
+    · Please keep track of any statistics or findings that you think are relevant to solving the problem.
+    · Please provide a thorough analysis of the relationships between the target and the various features and also the relationships between the important features.
+
+2. Prediction / Classification
+
+    · Based on your understanding, build several classifiers to determine what the result should be for a new customer
+    · Explain your results and the reason(s) you believe your model is valid
+
+Please provide your source code and a document outlining your findings and explanations, along with the data if you significantly transformed it.
+
+
+Data
+----
+
+ds-credit: CustomerID CheckingAccountBalance DebtsPaid SavingsAccountBalance CurrentOpenLoanApplications
+ds-app: CustomerID LoanPayoffPeriodInMonths LoanReason RequestedAmount InterestRate Co-Applicant
+ds-borrower: CustomerID YearsAtCurrentEmployer YearsInCurrentResidence Age RentOrOwnHome TypeOfCurrentEmployment NumberOfDependantsIncludingSelf
+ds-result: CustomerID WasTheLoanApproved

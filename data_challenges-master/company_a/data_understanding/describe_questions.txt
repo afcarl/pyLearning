@@ -1,0 +1,521 @@
+questions:
+
+LoanPayoffPeriodInMonths - lets create a second variable measuring this in years.
+
+LoanReason - grouping by loan reason and then looking at how other variables behave would be interesting.  Obvious questions:
+
+How many people in there early 20s are taking out loans for each of the reasons?  
+
+How many people in their late 20s are taking out loans for each of the reasons?  
+
+How many people in their early 30s are taking out loans for each of the reasons?  
+
+How many people in their late 30s are taking out loans for each of the reasons? 
+
+For older folks how do things shake out?  
+
+Category: young
+goods    9
+auto     1
+
+Interestingly - young people only tend to take out loans for goods, most of the time.
+
+Category: early_to_mid_20s
+goods      65
+auto       36
+busin      15
+school      9
+repairs     3
+other       1
+
+Surprisingly, there aren't a lot of school loans in this category.  Most of the share goes to
+goods and auto.  Business seems to be a rising proportion, however goods make up the majority still.
+
+Category: late_20s_to_early_30s
+goods      53
+auto       33
+busin      12
+school      9
+other       4
+repairs     2
+
+The proportions of goods, auto and business stay relatively unchanged into early 30s.  
+
+Category: early_30s_to_late_30s
+auto       44
+goods      38
+busin      15
+school      5
+repairs     1
+
+This is really fascinating - the loan reason shifts in majority from auto to goods at this point.  Business stays around the same proportion.
+
+Category: late_30s_to_mid_40s
+auto       23
+goods      23
+school      5
+busin       4
+other       1
+repairs     1
+
+Auto and goods equal out for this range for the top spot.  Very surprising.  
+
+Category: mid_40s_to_mid_50s
+goods     31
+auto      24
+school     5
+busin      4
+other      1
+
+Goods come out on top again here.  Perhaps people buy new cars every 5 to 10 years, so car repairs go down every few years.
+
+Category: mid_50s_to_old_age
+auto       14
+goods      12
+busin       8
+repairs     2
+school      1
+
+One follow on question - within each age category, how does the checking and savings account affect the LoanReason?
+
+Full data:
+
+Category: young
+Reason for the loan: goods
+Checking Account Frequencies
+debt    5
+none    3
+some    1
+
+Savings Account Frequencies
+some      5
+none      2
+v.high    1
+medium    1
+
+Reason for the loan: auto
+Checking Account Frequencies
+some    1
+
+Savings Account Frequencies
+some    1
+
+
+
+Category: early_to_mid_20s
+Reason for the loan: school
+Checking Account Frequencies
+debt    5
+some    2
+none    1
+high    1
+
+Savings Account Frequencies
+some      6
+none      2
+v.high    1
+
+Reason for the loan: auto
+Checking Account Frequencies
+debt    14
+none    11
+some    10
+high     1
+
+Savings Account Frequencies
+some      17
+none      10
+medium     6
+high       3
+
+Reason for the loan: other
+Checking Account Frequencies
+none    1
+
+Savings Account Frequencies
+some    1
+
+Reason for the loan: goods
+Checking Account Frequencies
+some    24
+debt    22
+none    14
+high     5
+
+Savings Account Frequencies
+some      46
+none      10
+high       4
+medium     4
+v.high     1
+
+Reason for the loan: repairs
+Checking Account Frequencies
+some    2
+none    1
+
+Savings Account Frequencies
+some      2
+medium    1
+
+Reason for the loan: busin
+Checking Account Frequencies
+none    5
+some    5
+debt    4
+high    1
+
+Savings Account Frequencies
+some      13
+medium     2
+
+
+
+Category: late_20s_to_early_30s
+Reason for the loan: school
+Checking Account Frequencies
+some    4
+none    3
+high    1
+debt    1
+
+Savings Account Frequencies
+some      5
+medium    2
+none      1
+v.high    1
+
+Reason for the loan: auto
+Checking Account Frequencies
+none    12
+some     9
+debt     9
+high     3
+
+Savings Account Frequencies
+some      18
+medium     8
+none       4
+high       3
+
+Reason for the loan: other
+Checking Account Frequencies
+some    4
+
+Savings Account Frequencies
+some      3
+medium    1
+
+Reason for the loan: goods
+Checking Account Frequencies
+none    21
+some    16
+debt    13
+high     3
+
+Savings Account Frequencies
+some      31
+none       8
+medium     6
+high       4
+v.high     4
+
+Reason for the loan: repairs
+Checking Account Frequencies
+some    1
+debt    1
+
+Savings Account Frequencies
+some    2
+
+Reason for the loan: busin
+Checking Account Frequencies
+none    6
+some    3
+debt    3
+
+Savings Account Frequencies
+some      9
+medium    2
+none      1
+
+
+Category: early_30s_to_late_30s
+Reason for the loan: school
+Checking Account Frequencies
+none    3
+debt    1
+some    1
+
+Savings Account Frequencies
+some    3
+none    2
+
+Reason for the loan: auto
+Checking Account Frequencies
+none    18
+debt    14
+some    10
+high     2
+
+Savings Account Frequencies
+some      26
+none      10
+high       4
+medium     3
+v.high     1
+
+Reason for the loan: goods
+Checking Account Frequencies
+none    18
+debt     9
+some     7
+high     4
+
+Savings Account Frequencies
+some      18
+none      11
+medium     5
+high       3
+v.high     1
+
+Reason for the loan: repairs
+Checking Account Frequencies
+some    1
+
+Savings Account Frequencies
+some    1
+
+Reason for the loan: busin
+Checking Account Frequencies
+some    7
+none    6
+debt    2
+
+Savings Account Frequencies
+some      6
+none      4
+v.high    2
+medium    2
+high      1
+
+
+
+Category: late_30s_to_mid_40s
+Reason for the loan: school
+Checking Account Frequencies
+none    4
+some    1
+
+Savings Account Frequencies
+some      2
+none      2
+medium    1
+
+Reason for the loan: auto
+Checking Account Frequencies
+debt    10
+none    10
+some     3
+
+Savings Account Frequencies
+some      12
+none       6
+high       2
+medium     2
+v.high     1
+
+Reason for the loan: other
+Checking Account Frequencies
+some    1
+
+Savings Account Frequencies
+none    1
+
+Reason for the loan: goods
+Checking Account Frequencies
+none    11
+some     8
+high     2
+debt     2
+
+Savings Account Frequencies
+some      17
+none       5
+medium     1
+
+Reason for the loan: repairs
+Checking Account Frequencies
+none    1
+
+Savings Account Frequencies
+some    1
+
+Reason for the loan: busin
+Checking Account Frequencies
+none    2
+some    2
+
+Savings Account Frequencies
+some    2
+high    2
+
+
+
+Category: mid_40s_to_mid_50s
+Reason for the loan: school
+Checking Account Frequencies
+none    3
+debt    1
+high    1
+
+Savings Account Frequencies
+some    4
+high    1
+
+Reason for the loan: auto
+Checking Account Frequencies
+none    10
+debt     8
+some     4
+high     2
+
+Savings Account Frequencies
+some      13
+none       7
+medium     2
+high       1
+v.high     1
+
+Reason for the loan: other
+Checking Account Frequencies
+debt    1
+
+Savings Account Frequencies
+some    1
+
+Reason for the loan: goods
+Checking Account Frequencies
+none    12
+debt     9
+some     7
+high     3
+
+Savings Account Frequencies
+some      18
+none       6
+v.high     3
+high       2
+medium     2
+
+Reason for the loan: busin
+Checking Account Frequencies
+none    2
+debt    1
+some    1
+
+Savings Account Frequencies
+none      2
+some      1
+v.high    1
+
+
+
+Category: mid_50s_to_old_age
+Reason for the loan: school
+Checking Account Frequencies
+some    1
+
+Savings Account Frequencies
+some    1
+
+Reason for the loan: auto
+Checking Account Frequencies
+debt    5
+none    4
+high    3
+some    2
+
+Savings Account Frequencies
+some      10
+none       2
+high       1
+v.high     1
+
+Reason for the loan: goods
+Checking Account Frequencies
+debt    6
+none    4
+high    1
+some    1
+
+Savings Account Frequencies
+some      4
+none      3
+high      2
+v.high    2
+medium    1
+
+Reason for the loan: repairs
+Checking Account Frequencies
+some    1
+debt    1
+
+Savings Account Frequencies
+some      1
+v.high    1
+
+Reason for the loan: busin
+Checking Account Frequencies
+some    4
+none    2
+high    1
+debt    1
+
+Savings Account Frequencies
+some      6
+medium    1
+none      1
+
+So some or little checking and savings and even sometimes debt top the frequency list.  So mostly the people asking for money are those that don't have it.  Which makes sense.  Why would you take out a loan if you have the money to cover the cost?  There doesn't seem to be a strong pattern from rational to rational, signalling for instance, that people looking to start businesses have lots of money.  So we can assume that there is weak evidence that loan reason and the amount of savings or checking has a correlation, when age is accounted for.  Although there is clearly correlation between loan reason and the range of values the data can take on, when you control for age.  Some categories do not take on the full range of possible values which is interesting and may warrant further study.  
+
+
+How do other variables effect the loan reason?  For instance, checking account, savings account, rent or own, years experience, employment status?  
+
+How does the requested amount vary with reason? 
+
+RequestedAmount - what is the maximum requested amount?  What is the minimum?  How does the requested amount change based on other factors?  Are there clear buckets for the requested amount?  Or is it granular?  Which other variables are correlated with requested amount?  Are they positive or negatively correlated?  Can we cluster the dataset by requested amount?
+
+InterestRate - Can we figure out a formula for how interest rate is calculated?  Or rather can we deduce a formula for how it might be chosen?  Other standard questions asked above.
+
+Co-Applicant - Create a second variable has co-applicant or doesn't.  Of those with a co-applicant segment by age, profession type, checking and savings, rent or own, etc.  Hypothesis - older folks have co-apps, younger folks have guarant.  Hypothesis - wealthy do not have co-apps as well as poor.  So we can use this as a segmentation into middle class and upper/lower class.
+
+YearsAtCurrentEmployer - How does years at current employer correlate with years in current residence?  
+
+How many people have 0 years at current employer and are unemployed?  
+
+Does 0 years of employment mean they have a new job?  Or does it mean they are unemployed?  
+
+How does years at current employer change with respect to other variables?  
+
+YearsInCurrentResidence - Same questions as above.
+
+Age - if we bucket by age, what buckets make the most sense?  
+
+TypeOfCurrentEmployment - Of the people that are skilled workers, where are they in life?  Do they tend to be younger? Older?  What other things are true of them on average?  Same question for unskilled, self and none. 
+
+Hypothesis - none is the old people that are retired.  
+
+NumberOfDependatsIncludingSelf - How does age vary with number of dependents?  
+
+CheckingAccountBalance - check against other variables.
+
+DebtsPaid - 
+
+Questions for A:
+1) Can we figure out which customer's are the same based on other attributes?  Or should we assume no customers are repeated in the dataset?
+2) Is the interest rate fixed by the lender or the borrower?  How does that figure come to be determined?
+3) In the RentOrOwnHome variable what does free mean?  
+4) Can you qualify what debt, some and high means in the context of checking account balance and savings account balance?  For instance, is high relative to the area the applicant lives?  Is it high compared to the national amount of savings?  If they have debt does that mean their checking account is negative?  Or does that mean they have a student loan or something?
+5) I am confused by the CurrentOpenLoanApplications variable.  Is that the number of concurrent applications they have submitted for loans?  Or are these other applications loans they may have submitted a while ago, but never got filled?  What constitutes a loan application being open?  Do loans that are currently in repayment count as open?
+6) Regarding DebtsPaid - does this mean the full debt has been paid off?  Also what does delayed mean?  Does that mean they missed the target repayment date?  Or their loan is in deferment?

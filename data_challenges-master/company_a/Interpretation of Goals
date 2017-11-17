@@ -1,0 +1,45 @@
+Interpretation of Goals:
+
+A builds state of the art Natural Language Processing and Machine Learning tools that empower human customer service representatives to become 10X more efficient than they are today - High level goal - empower customer service representatives.
+
+Before we can build tools to solve a given customer service problem, we need to thoroughly understand it - we need to thoroughly understand the problem.
+
+Your challenge is to gain an understanding of a small loan-application dataset so that we can double-check the work of agents making quick-fire loan determinations by text.
+
+Gain understanding of a small loan-application dataset.  So that we can double-check the work of agents making quick-fire loan determinations by text.
+
+What to do here:
+
+1) gain thorough understanding of the dataset
+2) double-check the work of agents making quick-fire loan determinations by text.
+
+So agents are checking loans for potential loan holders.  And we need to check whether or not their decisions are good ones?
+
+Based on your understanding, build several classifiers to determine what the result should be for a new customer - so basically we are assuming that our data is good and the loan choices made in the past are the right ones.  Aka we trust the data.  Now we want to take the past work that others have done and make sure new loans are easily classifiable.
+
+Analysis of fields
+
+CustomerID - field we can use to join all datasets into one dataframe.
+
+CheckingAccountBalance - how much money they have in checking
+DebtsPaid - how much they have paid into debt
+SavingsAccountBalance - how much they have in savings
+CurrentOpenLoanApplications - The number of loan applications they currently have open.  So these loans are not paying out money right now.  - Ask this question on monday.
+
+LoanPayoffPeriodInMonths - The number of payoff periods in months for the current loan application.
+LoanReason - why do they want the money.
+RequestedAmount - amount requested
+InterestRate - how much interest they will be charged on the loan.
+Co-Applicant - If they have someone to go in on the loan with them and what type of person is co-openning the loan.
+YearsAtCurrentEmployer - Number of years at the current employer
+YearsInCurrentResidence - Number of years in their current home
+Age - their age in years
+RentOrOwnHome - whether they rent or own a home.
+TypeOfCurrentEmployment - whether they are skilled, unskilled or self employed - not their is no unemployed option - Second question, does self employed sometimes mean unemployed?
+NumberOfDependantsIncludingSelf - number of people you count on your taxes as people you support
+WasTheLoanApproved - loan approved or denied.
+
+ds-credit: CheckingAccountBalance DebtsPaid SavingsAccountBalance CurrentOpenLoanApplications
+ds-app: LoanPayoffPeriodInMonths LoanReason RequestedAmount InterestRate Co-Applicant
+ds-borrower: YearsAtCurrentEmployer YearsInCurrentResidence Age RentOrOwnHome TypeOfCurrentEmployment NumberOfDependantsIncludingSelf
+ds-result: WasTheLoanApproved

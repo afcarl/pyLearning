@@ -1,0 +1,119 @@
+import pandas as pd
+import numpy as np
+
+LOWEST_NUMBER_OF_ROWS = 2000
+HIGHEST_NUMBER_OF_ROWS = 5000
+
+
+def bootstrap(df: pd.DataFrame, n=None) -> pd.DataFrame:
+    """ Bootstrap resample a dataframe
+    Parameters
+    ----------
+    df : pandas DataFrame
+    n : int, optional
+      length of resampled array, equal to len(X) if n==None
+    Returns
+    -------
+    returns pandas.DataFrame
+    """
+    if n == None:
+        n = len(df)
+    resample_index = np.floor(np.random.rand(n)*len(df)).astype(int)
+    resample = df.reindex(resample_index)
+    return resample
+
+
+def to_numeric(df):
+    del df["CustomerID"]
+    df["YearsAtCurrentEmployer"] = df["YearsAtCurrentEmployer"].replace("10+", "10")
+    df["YearsAtCurrentEmployer"] = df["YearsAtCurrentEmployer"].astype(float)
+    for column in df.columns:
+        if not (df[column].dtype == np.float64 or df[column].dtype == np.int64):
+            tmp_df = pd.get_dummies(df[column], prefix=column)
+            df = pd.concat([df, tmp_df], axis=1)
+            del df[column]
+    return df
+
+
+def get_bias(mean_bias_per_column, median_bias_per_column):
+    total_mean_bias = sum(list(mean_bias_per_column.values()))
+    total_median_bias = sum(list(median_bias_per_column.values()))
+    return total_mean_bias, total_median_bias
+
+
+def breakdown_analyze_bias(mean_bias_per_column, median_bias_per_column):
+    print("mean bias per column")
+    for column in mean_bias_per_column:
+        print(column, mean_bias_per_column[column])
+    total_mean_bias = sum(list(mean_bias_per_column.values()))
+    print("total mean bias across all columns:", total_mean_bias)
+    print("median bias per column")
+    for column in median_bias_per_column:
+        print(column, median_bias_per_column[column])
+    total_median_bias = sum(list(median_bias_per_column.values()))
+    print("total median bias across all columns:", total_median_bias)
+    return total_mean_bias, total_median_bias
+
+
+def calculate_numerical_bias(df, df_resampled):
+    mean_bias_per_column = {}
+    median_bias_per_column = {}
+    for column in df.columns:
+        if (df[column].dtype == np.float64 or df[column].dtype == np.int64):
+            mean_bias_per_column[column] = abs(df[column].mean() - df_resampled[column].mean())
+            median_bias_per_column[column] = abs(df[column].median() - df_resampled[column].median())
+    total_mean_bias, total_median_bias = get_bias(mean_bias_per_column, median_bias_per_column)
+    return total_mean_bias, total_median_bias
+
+
+def calculate_categorical_bias(df, df_resampled):
+    mode_bias_per_column = []
+    total_categorical_columns = 0
+    for column in df.columns:
+        if not (df[column].dtype == np.float64 or df[column].dtype == np.int64):
+            mode_equality = df[column].mode() == df_resampled[column].mode()
+            mode_equality = int(mode_equality)
+            mode_bias_per_column.append(mode_equality)
+            total_categorical_columns += 1
+    # the closer to 1 the better
+    return total_categorical_columns / sum(mode_bias_per_column)
+
+
+def resample(df, start_n, max_n, jump_size):
+    best_resample = pd.DataFrame()
+    least_mean_bias = 10000
+    least_median_bias = 10000
+    least_mode_bias = 10000
+    for n in range(start_n, max_n, jump_size):
+        df_resampled = bootstrap(df, n=n)
+        total_mean_bias, total_median_bias = calculate_numerical_bias(df, df_resampled)
+        total_mode_bias = calculate_categorical_bias(df, df_resampled)
+        if (total_mean_bias < least_mean_bias) and (total_median_bias < least_median_bias) and (total_mode_bias < least_mode_bias):
+            best_resample = df_resampled.copy()
+            least_mean_bias = total_mean_bias
+            least_median_bias = total_median_bias
+            least_mode_bias = total_mode_bias
+    return best_resample, least_mean_bias, least_median_bias, least_mode_bias
+
+
+if __name__ == '__main__':
+    df = pd.read_csv("ds-all-data.csv")
+    resamples = []
+    for i in range(100):
+        print("Iteration Number", i)
+        resamples.append(resample(df, LOWEST_NUMBER_OF_ROWS, HIGHEST_NUMBER_OF_ROWS, 1000))
+    best_resample = resamples[0][0]
+    least_mean_bias = resamples[0][1]
+    least_median_bias = resamples[0][2]
+    least_mode_bias = resamples[0][3]
+    for resample in resamples:
+        if resample[1] < least_mean_bias and resample[2] < least_median_bias and resample[3] < least_mode_bias:
+            best_resample = resample[0].copy()
+            least_mean_bias = resample[1]
+            least_median_bias = resample[2]
+            least_mode_bias = resample[3]
+    print("Mean bias of resample", least_mean_bias)
+    print("Median bias of resample", least_median_bias)
+    print("Mode bias of resample", least_mode_bias) # the closer to 1 the better
+    best_resample.to_csv("final_resampled_data.csv", index=False)
+    
